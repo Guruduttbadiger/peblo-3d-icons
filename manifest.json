@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
   "completed_originals": 967,
-  "uploaded_originals": 20,
+  "uploaded_originals": 100,
   "status": "uploading",
   "icons": [
     {
@@ -363,6 +363,1446 @@
       "bytes": 977031,
       "sha256": "1295fa8477b7621341d133948364f6dd996266ea220ea27a930287f05e6b0847",
       "git_blob_sha": "de6a3aae9debf921e03fdf4bb4b6cbf2b6b5b133"
+    },
+    {
+      "id": "ICON-0021",
+      "concept": "train",
+      "category": "Transport and mobility",
+      "subcategory": "mobility",
+      "path": "icons/transport-and-mobility/icon-0021-train.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 2,
+      "bytes": 923490,
+      "sha256": "d93ccfd563a26462a01db3be4a4020a89fa2414c8fec822357a2f2c41d17b179",
+      "git_blob_sha": "c21310213ef3aa8ac507564da7cfb1e2373a5ad1"
+    },
+    {
+      "id": "ICON-0022",
+      "concept": "bus",
+      "category": "Transport and mobility",
+      "subcategory": "mobility",
+      "path": "icons/transport-and-mobility/icon-0022-bus.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1214176,
+      "sha256": "7dea4e2c9737b7ebd97bdb59180a0ea07cb6d22be05b8a7c969112e607077cdc",
+      "git_blob_sha": "4ee2b705ecbb0d7443260858d99cbe3557ef8c60"
+    },
+    {
+      "id": "ICON-0023",
+      "concept": "ferry",
+      "category": "Transport and mobility",
+      "subcategory": "mobility",
+      "path": "icons/transport-and-mobility/icon-0023-ferry.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 996718,
+      "sha256": "46d2a89a081c14a8036bdbd48b53b88d41968739b987a3419420d9941bf5863f",
+      "git_blob_sha": "b99a5c374f246693f307d967c2e1ea8cac29fe1a"
+    },
+    {
+      "id": "ICON-0024",
+      "concept": "shopping-cart",
+      "category": "Shopping and commerce",
+      "subcategory": "shopping",
+      "path": "icons/shopping-and-commerce/icon-0024-shopping-cart.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1070263,
+      "sha256": "a73b2361f430c11fb0b25c2fa8e8096d5a169a8a5d97667a3978c37abd49d9b9",
+      "git_blob_sha": "17504b7b30fe5b6d57f56a85bfd8e16359cba523"
+    },
+    {
+      "id": "ICON-0025",
+      "concept": "shopping-basket",
+      "category": "Shopping and commerce",
+      "subcategory": "shopping",
+      "path": "icons/shopping-and-commerce/icon-0025-shopping-basket.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1265999,
+      "sha256": "58d2a07b4fa1fbb54f34ddb2b2f604f1b3e026c0b8b78f4ae7419fdbf8c4ff23",
+      "git_blob_sha": "46b2580958569eee04042d1bef289a96e0a3e3dd"
+    },
+    {
+      "id": "ICON-0026",
+      "concept": "shopping-bag",
+      "category": "Shopping and commerce",
+      "subcategory": "shopping",
+      "path": "icons/shopping-and-commerce/icon-0026-shopping-bag.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1026571,
+      "sha256": "aab4597893cfcf71c8a424971132fb15155c901ece091e1ce1538ad34e208a01",
+      "git_blob_sha": "9863bc2611fa34fda6543a0d78e8ae534fd75c38"
+    },
+    {
+      "id": "ICON-0027",
+      "concept": "gift-box",
+      "category": "Shopping and commerce",
+      "subcategory": "shopping",
+      "path": "icons/shopping-and-commerce/icon-0027-gift-box.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1263263,
+      "sha256": "9e229ebef2e96786845496c77ec3083cb4183494ac3de42468690d831347742a",
+      "git_blob_sha": "ad88bc029640ee36457fbca8498a30720913cf54"
+    },
+    {
+      "id": "ICON-0028",
+      "concept": "price-tag",
+      "category": "Shopping and commerce",
+      "subcategory": "shopping",
+      "path": "icons/shopping-and-commerce/icon-0028-price-tag.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1056961,
+      "sha256": "14a223749685f85854fcb1a9e119a091f9d218ea6a00be99be8c3889e220cf3d",
+      "git_blob_sha": "14d79990b2e332d3f83678756f68013df3b1957d"
+    },
+    {
+      "id": "ICON-0029",
+      "concept": "receipt",
+      "category": "Shopping and commerce",
+      "subcategory": "shopping",
+      "path": "icons/shopping-and-commerce/icon-0029-receipt.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 954569,
+      "sha256": "13190f7085ff2d42f732d53fe676073cddb05ca6afb4ccdde93f822e1e3e9045",
+      "git_blob_sha": "59f225618ccc351b18d51a95deb2792e6184a195"
+    },
+    {
+      "id": "ICON-0030",
+      "concept": "delivery-box",
+      "category": "Shopping and commerce",
+      "subcategory": "shopping",
+      "path": "icons/shopping-and-commerce/icon-0030-delivery-box.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1273613,
+      "sha256": "f33dcdd1176a8cc5de8d6b8c615f76368b824effc4353c33520ad5db0ea010e7",
+      "git_blob_sha": "141da7d70bc5a06437e1c38e56537e642c735602"
+    },
+    {
+      "id": "ICON-0031",
+      "concept": "delivery-truck",
+      "category": "Shopping and commerce",
+      "subcategory": "shopping",
+      "path": "icons/shopping-and-commerce/icon-0031-delivery-truck.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1258315,
+      "sha256": "c0999417c9d772477216b0b0999f3d5811b945149e795001365ac94f0c78ff90",
+      "git_blob_sha": "4ef9154251dec57a9d7692e96a421973d44cf6a6"
+    },
+    {
+      "id": "ICON-0032",
+      "concept": "storefront",
+      "category": "Shopping and commerce",
+      "subcategory": "shopping",
+      "path": "icons/shopping-and-commerce/icon-0032-storefront.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1241585,
+      "sha256": "570df21e63f21701c439d32d01e0a498d7f861aa7751f9bcee9c17677043e20a",
+      "git_blob_sha": "ad594e6b53b5e38db5b032d584c4070798a2819d"
+    },
+    {
+      "id": "ICON-0033",
+      "concept": "barcode-scanner",
+      "category": "Shopping and commerce",
+      "subcategory": "shopping",
+      "path": "icons/shopping-and-commerce/icon-0033-barcode-scanner.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 914857,
+      "sha256": "04b3f0541b8dcaacd89308ca1b44159344a0731272a2cf75b8da533585b4bd55",
+      "git_blob_sha": "344f5220f8fabda8225e20f85e682999bc15482b"
+    },
+    {
+      "id": "ICON-0034",
+      "concept": "product-package",
+      "category": "Shopping and commerce",
+      "subcategory": "commerce-services",
+      "path": "icons/shopping-and-commerce/icon-0034-product-package.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1068793,
+      "sha256": "f9759cf06577a328265d4f9a82aff193989b959883ee92bf6edb4a75f5b09a4b",
+      "git_blob_sha": "0f7f63c74e7081d0c72967e853f2c848999700fb"
+    },
+    {
+      "id": "ICON-0035",
+      "concept": "discount-ticket",
+      "category": "Shopping and commerce",
+      "subcategory": "commerce-services",
+      "path": "icons/shopping-and-commerce/icon-0035-discount-ticket.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1158583,
+      "sha256": "7ba8ea224a8a5c325ce11d13d7fe4510d7bb87a780974098ea62d832486bcb7e",
+      "git_blob_sha": "dd30703b7bece24122381a02dbedd8a10383d92c"
+    },
+    {
+      "id": "ICON-0036",
+      "concept": "loyalty-card",
+      "category": "Shopping and commerce",
+      "subcategory": "commerce-services",
+      "path": "icons/shopping-and-commerce/icon-0036-loyalty-card.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1138381,
+      "sha256": "3dec4169cadf376621c076458d4314839805120f1c0c1af62ebf9523130a8d5a",
+      "git_blob_sha": "b052433083318091a60762c33c9e8fb1b9a35d5f"
+    },
+    {
+      "id": "ICON-0037",
+      "concept": "return-parcel",
+      "category": "Shopping and commerce",
+      "subcategory": "commerce-services",
+      "path": "icons/shopping-and-commerce/icon-0037-return-parcel.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1166719,
+      "sha256": "55376916924411a0c95aeaef3631e7e9c7e654d4259e5a5287dae39f9c099d63",
+      "git_blob_sha": "2e346de913c44db2c9b7cb448458d573fb318619"
+    },
+    {
+      "id": "ICON-0038",
+      "concept": "wish-heart",
+      "category": "Shopping and commerce",
+      "subcategory": "commerce-services",
+      "path": "icons/shopping-and-commerce/icon-0038-wish-heart.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1036687,
+      "sha256": "8e7459448e66e2cd2e7a380f5de8944d202690455b12644e171aecc0a62be07e",
+      "git_blob_sha": "63b705fcd268e034016f5c7b1226d6492c000f45"
+    },
+    {
+      "id": "ICON-0039",
+      "concept": "verified-badge",
+      "category": "Shopping and commerce",
+      "subcategory": "commerce-services",
+      "path": "icons/shopping-and-commerce/icon-0039-verified-badge.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1201111,
+      "sha256": "bd50a6c85d38848a10a94cef5352f4a8d01ec5a25373c8cec2a071c83cb27b73",
+      "git_blob_sha": "2c130e38fd9592e749d89e50243e31aca4f4cd31"
+    },
+    {
+      "id": "ICON-0040",
+      "concept": "magnifying-glass",
+      "category": "Shopping and commerce",
+      "subcategory": "commerce-services",
+      "path": "icons/shopping-and-commerce/icon-0040-magnifying-glass.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 620518,
+      "sha256": "083b561a1158431e01228bd1c9d42b24182e5e6cdc20967fde8d05bb02ae1842",
+      "git_blob_sha": "b72c21c57adb786e9af89046aa529fbefd31c01a"
+    },
+    {
+      "id": "ICON-0041",
+      "concept": "shopping-list",
+      "category": "Shopping and commerce",
+      "subcategory": "commerce-services",
+      "path": "icons/shopping-and-commerce/icon-0041-shopping-list.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1123804,
+      "sha256": "078caec461efc25e53111953a14ce3ccb55cac10bf60bdbfdaf3ccc95539d96e",
+      "git_blob_sha": "f1d250edecc766760a86ae4ead42efa7cc3d1dff"
+    },
+    {
+      "id": "ICON-0042",
+      "concept": "package-scale",
+      "category": "Shopping and commerce",
+      "subcategory": "commerce-services",
+      "path": "icons/shopping-and-commerce/icon-0042-package-scale.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1268699,
+      "sha256": "4822171703fa73c144f2139f0b89c9dde001778970f556c7251e59f443b8275b",
+      "git_blob_sha": "88a8d3bda5be59dfd29135227856278ffa87a132"
+    },
+    {
+      "id": "ICON-0043",
+      "concept": "customer-support-headset",
+      "category": "Shopping and commerce",
+      "subcategory": "commerce-services",
+      "path": "icons/shopping-and-commerce/icon-0043-customer-support-headset.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1015576,
+      "sha256": "c8d7d65cdb5712045e2e8318398d6096eb0c285f5d7431743e0ee711827a52bb",
+      "git_blob_sha": "9a5ff664efaac3263e4c4c999e9483e1d89918ec"
+    },
+    {
+      "id": "ICON-0044",
+      "concept": "credit-card",
+      "category": "Money and finance",
+      "subcategory": "money",
+      "path": "icons/money-and-finance/icon-0044-credit-card.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1142323,
+      "sha256": "9cb536f9d5a1f1da321089198372c085b427343166bfdb2c0a2d97a45676c4a0",
+      "git_blob_sha": "206f667d82d189f2e33343a3a592ae22830f11be"
+    },
+    {
+      "id": "ICON-0045",
+      "concept": "wallet",
+      "category": "Money and finance",
+      "subcategory": "money",
+      "path": "icons/money-and-finance/icon-0045-wallet.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1226806,
+      "sha256": "cd11f46375ca616e3e7dd82242e987fb05faf1b781d68f63752862dc79a30fbd",
+      "git_blob_sha": "3462d3d4afb862025fb3b2c25cd7505e6bfa9e1b"
+    },
+    {
+      "id": "ICON-0046",
+      "concept": "coins",
+      "category": "Money and finance",
+      "subcategory": "money",
+      "path": "icons/money-and-finance/icon-0046-coins.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1113778,
+      "sha256": "ee8137e6f4006e9c6548b3eaa055bc165447684514db160fe5419ccc4ef96c3f",
+      "git_blob_sha": "e727d62e7367dd091fa20601dd6d601c8f2befd1"
+    },
+    {
+      "id": "ICON-0047",
+      "concept": "banknote",
+      "category": "Money and finance",
+      "subcategory": "money",
+      "path": "icons/money-and-finance/icon-0047-banknote.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1096177,
+      "sha256": "c9cc60414dc6e0bddff499c7ee465d01cc3846fb3a91f3f020c1e2da3c38e0d2",
+      "git_blob_sha": "15c0ad70fe0b6fe68b5faa7ed78dd78c02d6a5d5"
+    },
+    {
+      "id": "ICON-0048",
+      "concept": "piggy-bank",
+      "category": "Money and finance",
+      "subcategory": "money",
+      "path": "icons/money-and-finance/icon-0048-piggy-bank.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1104616,
+      "sha256": "ec8984e882a6f7e6f084a33c9985221392deaaf727b5e5aa4e3dd722422a2396",
+      "git_blob_sha": "e2d8dd02c43d5c5e11a9d3a78ba0be02a94a4e5f"
+    },
+    {
+      "id": "ICON-0049",
+      "concept": "bank-building",
+      "category": "Money and finance",
+      "subcategory": "money",
+      "path": "icons/money-and-finance/icon-0049-bank-building.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1138950,
+      "sha256": "0549d3abe1a0db4f11e634e72f52ac03aab5fea843b7d79bd48d2b3ac9bfe058",
+      "git_blob_sha": "8454dcf5b885bcf0aee6cbfc3606eb042b840392"
+    },
+    {
+      "id": "ICON-0050",
+      "concept": "vault",
+      "category": "Money and finance",
+      "subcategory": "money",
+      "path": "icons/money-and-finance/icon-0050-vault.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1369624,
+      "sha256": "112545bdb07331721f95a35b458d30caf74feccabd44d802542b1812235b80b7",
+      "git_blob_sha": "6a5d461317d6ba03b76cc908f5800c0994d6ccd6"
+    },
+    {
+      "id": "ICON-0051",
+      "concept": "cash-register",
+      "category": "Money and finance",
+      "subcategory": "money",
+      "path": "icons/money-and-finance/icon-0051-cash-register.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1204449,
+      "sha256": "c234cf0185df24df3e5265ebfee9bd43605b7ba4b250c7a9ec503e3cd1e5d212",
+      "git_blob_sha": "49f96658c0a9488a6d9703e1cc24c9d8794bbaff"
+    },
+    {
+      "id": "ICON-0052",
+      "concept": "calculator",
+      "category": "Money and finance",
+      "subcategory": "money",
+      "path": "icons/money-and-finance/icon-0052-calculator.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1316182,
+      "sha256": "a053bd36f7c625fd81205108c46ff426ee05306daa962e96949b9f327111f542",
+      "git_blob_sha": "866d82c50f34d333421d9f1138c54d6df13fa202"
+    },
+    {
+      "id": "ICON-0053",
+      "concept": "abacus",
+      "category": "Money and finance",
+      "subcategory": "money",
+      "path": "icons/money-and-finance/icon-0053-abacus.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1323482,
+      "sha256": "df4ab55e0b97cf20ddf6cf223ac2c43f6f04525e1e20f427b68c20d55c34f26e",
+      "git_blob_sha": "0f0746ef9a7bd514909e3ac353392d96b22a8481"
+    },
+    {
+      "id": "ICON-0054",
+      "concept": "payment-terminal",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0054-payment-terminal.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1251719,
+      "sha256": "d5cc440fae4b9fd9f8ad689d081223ede97c92e84c8fe09c458e860e5d2cbda9",
+      "git_blob_sha": "0fca169c0f119076b805f7e979b373e16a752412"
+    },
+    {
+      "id": "ICON-0055",
+      "concept": "chart-bars",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0055-chart-bars.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 888803,
+      "sha256": "d5dd2ac6a9f5a13d3deba885903e434b4563bb4e676dda15559bca26156bfa75",
+      "git_blob_sha": "acc70bda8d5dd870fd5a56d3206e683c1f542066"
+    },
+    {
+      "id": "ICON-0056",
+      "concept": "chart-line",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0056-chart-line.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1054470,
+      "sha256": "15e5232c10dad5a207385cb967cf9b1598c251c40969d47efd6cdcd668fa79e7",
+      "git_blob_sha": "75da0e3add3f7ac0fadadd7e8295a1aa0071b0d3"
+    },
+    {
+      "id": "ICON-0057",
+      "concept": "shield-lock",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0057-shield-lock.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1105930,
+      "sha256": "9f64037f68b524a7e84aa2e0b46baa0592bdd035a46f96b63faa8be6c6acf00d",
+      "git_blob_sha": "ea91c7aeaf2c3d299f7d470df2004f89ae84482b"
+    },
+    {
+      "id": "ICON-0058",
+      "concept": "percentage-symbol",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0058-percentage-symbol.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 957072,
+      "sha256": "9ed4a7a6a82005c670b1c764d4b9f6ecede232e8d61737cecd7d06acb4d4b4ef",
+      "git_blob_sha": "2231bbc9ac5c62daf6d70d9ec17b3335b5bd2683"
+    },
+    {
+      "id": "ICON-0059",
+      "concept": "currency-exchange",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0059-currency-exchange.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 915553,
+      "sha256": "3ee0865ae4d5a526d51c4b79578dba2d58f7f97cf2dae4cd0b16a30052bf84fc",
+      "git_blob_sha": "dd830d0de0620918de7e400de330f4806e68a91c"
+    },
+    {
+      "id": "ICON-0060",
+      "concept": "money-transfer",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0060-money-transfer.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 953182,
+      "sha256": "00eb4c287d2e325ae01a7b93fdcb81e315309c8d207a0d8df4823ecb15cbca67",
+      "git_blob_sha": "59b9cb43874dd95b2e60674a89340c8742bfde07"
+    },
+    {
+      "id": "ICON-0061",
+      "concept": "budget-envelope",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0061-budget-envelope.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1175750,
+      "sha256": "0cd5b745c0ceecd5d394afcd3d0ca4536091ef75cc09c04941318cb8f440f67e",
+      "git_blob_sha": "5213b7afd0e1974b22f8850e660b0f647a3a4d78"
+    },
+    {
+      "id": "ICON-0062",
+      "concept": "invoice",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0062-invoice.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1059115,
+      "sha256": "edc5849ef01b0c76aeb06acbad4cd87e3c532b3bed28e3a8a03b1ef258dcb02f",
+      "git_blob_sha": "227dc2fda5e7aa3fbfb8147ef86bdb314749cc38"
+    },
+    {
+      "id": "ICON-0063",
+      "concept": "financial-report",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0063-financial-report.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1193264,
+      "sha256": "e33d5ffdf83178941734247767ae07a41db6134b66d9d0bdfd745338a4e79f1e",
+      "git_blob_sha": "becc7322c46e41caea5e530abefa2ffb5a1b1123"
+    },
+    {
+      "id": "ICON-0064",
+      "concept": "laptop",
+      "category": "Work and productivity",
+      "subcategory": "productivity",
+      "path": "icons/work-and-productivity/icon-0064-laptop.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1437450,
+      "sha256": "9a6d35c652e033502973c59d28e02a022f92ff0d284222c30306e1885f2d6c30",
+      "git_blob_sha": "4b419b9309251780a2a4ef0dc98ba66343854028"
+    },
+    {
+      "id": "ICON-0065",
+      "concept": "keyboard",
+      "category": "Work and productivity",
+      "subcategory": "productivity",
+      "path": "icons/work-and-productivity/icon-0065-keyboard.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 979606,
+      "sha256": "a1b8cf41974027d4bcf05ebbeacbfdfce95ce10af27ff099afa1176b637e9605",
+      "git_blob_sha": "9e85832c66e4e1103b6bc2ac9f69028d80ec7959"
+    },
+    {
+      "id": "ICON-0066",
+      "concept": "mouse",
+      "category": "Work and productivity",
+      "subcategory": "productivity",
+      "path": "icons/work-and-productivity/icon-0066-mouse.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1035525,
+      "sha256": "ea6dd1663fbfacd6db4c3d261068dbe115e2a0d61428c60b878fcdee1d9190b9",
+      "git_blob_sha": "6fc3167fde951df7f544369dcaa60877ecc82c90"
+    },
+    {
+      "id": "ICON-0067",
+      "concept": "monitor",
+      "category": "Work and productivity",
+      "subcategory": "productivity",
+      "path": "icons/work-and-productivity/icon-0067-monitor.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1120758,
+      "sha256": "c14daccabbef75cf056e5c653ef9ddb2ffa9cdb7c91480b64b8120eb4845e805",
+      "git_blob_sha": "a4f886dab0192e071a1ee6a2b62e7b36b2902ef3"
+    },
+    {
+      "id": "ICON-0068",
+      "concept": "desk",
+      "category": "Work and productivity",
+      "subcategory": "productivity",
+      "path": "icons/work-and-productivity/icon-0068-desk.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 930825,
+      "sha256": "fb03d318afbaaeee328884531d5a1a170cfd13489b6dc18efbee422d9f7322e9",
+      "git_blob_sha": "daa1dd874106baf5d332e1ff56824345cb1a4ecf"
+    },
+    {
+      "id": "ICON-0069",
+      "concept": "briefcase",
+      "category": "Work and productivity",
+      "subcategory": "productivity",
+      "path": "icons/work-and-productivity/icon-0069-briefcase.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1139607,
+      "sha256": "51953114725a6615e583ad226ff1da2a752040cdcc592cf18033cb5c2fb75300",
+      "git_blob_sha": "05942c880b43cd74f75bc20baafdd5751a17e4d6"
+    },
+    {
+      "id": "ICON-0070",
+      "concept": "clipboard",
+      "category": "Work and productivity",
+      "subcategory": "productivity",
+      "path": "icons/work-and-productivity/icon-0070-clipboard.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1129732,
+      "sha256": "651ac22cd39ecca64de78602551f5a35e286060c0413b54f0afa295e899af17c",
+      "git_blob_sha": "ec9b7951ffe024012e04d6923da65ca821154859"
+    },
+    {
+      "id": "ICON-0071",
+      "concept": "notebook",
+      "category": "Work and productivity",
+      "subcategory": "productivity",
+      "path": "icons/work-and-productivity/icon-0071-notebook.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1165309,
+      "sha256": "b12289f2500cbaa9a964690849c8342c8e7177689be3ccf090f9bb543e4e3c60",
+      "git_blob_sha": "c49ac1f3b36be35570d8b8cf3ad9a89e1ffa3182"
+    },
+    {
+      "id": "ICON-0072",
+      "concept": "pencil",
+      "category": "Work and productivity",
+      "subcategory": "productivity",
+      "path": "icons/work-and-productivity/icon-0072-pencil.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 654809,
+      "sha256": "69fe375b550a66654838f417f51a45d9edaf3357655e79af625c33ca406d258a",
+      "git_blob_sha": "0b1fad1110fc916b67bad1d935bd2e821296e5db"
+    },
+    {
+      "id": "ICON-0073",
+      "concept": "pen",
+      "category": "Work and productivity",
+      "subcategory": "productivity",
+      "path": "icons/work-and-productivity/icon-0073-pen.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 535912,
+      "sha256": "9f6e0c600adb80f2337ebd886df4383f3f9b1081d27875164d49102b908972ea",
+      "git_blob_sha": "2a3f814732be7d1e9bedc23969507483ace31b85"
+    },
+    {
+      "id": "ICON-0074",
+      "concept": "ruler",
+      "category": "Work and productivity",
+      "subcategory": "office-tools",
+      "path": "icons/work-and-productivity/icon-0074-ruler.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 722373,
+      "sha256": "2d380514cad13cece3c0fd71ee1718a2fb9539a89b05fd119b28af477e23f6c0",
+      "git_blob_sha": "d2bc4c738045c1bb49cbe3e09e5f1500562b13ea"
+    },
+    {
+      "id": "ICON-0075",
+      "concept": "scissors",
+      "category": "Work and productivity",
+      "subcategory": "office-tools",
+      "path": "icons/work-and-productivity/icon-0075-scissors.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 732232,
+      "sha256": "2a687df9acb8e46c49808b1c7a5397a9c42cb5a87eddc02d5f8cb5c93297e7bf",
+      "git_blob_sha": "73d455f3b643cffe143b4228ea2a30c8d3259028"
+    },
+    {
+      "id": "ICON-0076",
+      "concept": "stapler",
+      "category": "Work and productivity",
+      "subcategory": "office-tools",
+      "path": "icons/work-and-productivity/icon-0076-stapler.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1023109,
+      "sha256": "cf670ae85a8ca5d29b655ed53bd2c3ed2408e33a6100d25be172315b7e0b788a",
+      "git_blob_sha": "6603142fffaa01387ada7bc8ccb20c498a7d1957"
+    },
+    {
+      "id": "ICON-0077",
+      "concept": "paperclips",
+      "category": "Work and productivity",
+      "subcategory": "office-tools",
+      "path": "icons/work-and-productivity/icon-0077-paperclips.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 936977,
+      "sha256": "17a47387829c6e6e8ea78c3cbdd49edf3fb682c27cd63a35f751ffff7d9d2725",
+      "git_blob_sha": "a05f3b92c04b4c7f2734b7c370c3425faac09c91"
+    },
+    {
+      "id": "ICON-0078",
+      "concept": "filing-cabinet",
+      "category": "Work and productivity",
+      "subcategory": "office-tools",
+      "path": "icons/work-and-productivity/icon-0078-filing-cabinet.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1064988,
+      "sha256": "cdac916e1021fe131b8ed8dff864a66d6055e3f7a7a2c45bf5aefa10459e4a09",
+      "git_blob_sha": "ab13bc28c0a232b5b9affc4f6813fd0760778850"
+    },
+    {
+      "id": "ICON-0079",
+      "concept": "folder",
+      "category": "Work and productivity",
+      "subcategory": "office-tools",
+      "path": "icons/work-and-productivity/icon-0079-folder.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1149776,
+      "sha256": "d3fecc7c71f6b3ad2cf077c6626c344d70a211796b9877ff2c2b1b6eddbe483b",
+      "git_blob_sha": "554b0fc82143550b52d27f1d83481bd8e9eea110"
+    },
+    {
+      "id": "ICON-0080",
+      "concept": "binder",
+      "category": "Work and productivity",
+      "subcategory": "office-tools",
+      "path": "icons/work-and-productivity/icon-0080-binder.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1101247,
+      "sha256": "72707eaaa7f49143cab85cf402922544bb300586136dc4781fc3dc8a40a32228",
+      "git_blob_sha": "d6bef350de2a195b25c72895007cecb713b4ac9e"
+    },
+    {
+      "id": "ICON-0081",
+      "concept": "whiteboard",
+      "category": "Work and productivity",
+      "subcategory": "office-tools",
+      "path": "icons/work-and-productivity/icon-0081-whiteboard.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1106123,
+      "sha256": "46306e0f196f16cb48f7950cb2dc7e3141a222353dee2554803b25d9c5735ddf",
+      "git_blob_sha": "ff4342ac96ebe79b98f0e690c9250459ad4f1bf5"
+    },
+    {
+      "id": "ICON-0082",
+      "concept": "desk-lamp",
+      "category": "Work and productivity",
+      "subcategory": "office-tools",
+      "path": "icons/work-and-productivity/icon-0082-desk-lamp.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 802222,
+      "sha256": "04cb143e30a1900abdf65ebff943d01ce80f22ffe421b24e7fac28892a84f4d2",
+      "git_blob_sha": "a5319ea2d7b8fcc969b51d65a618a7d14929168a"
+    },
+    {
+      "id": "ICON-0083",
+      "concept": "hourglass",
+      "category": "Work and productivity",
+      "subcategory": "office-tools",
+      "path": "icons/work-and-productivity/icon-0083-hourglass.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 864363,
+      "sha256": "58bf3ead8897267d74c2b50842bd1f06d687efe8fee02277f87a9ed4cfac74b0",
+      "git_blob_sha": "cb6fcf9dac36827f2d4a9a94ededa902cf907ab0"
+    },
+    {
+      "id": "ICON-0084",
+      "concept": "smartphone",
+      "category": "Technology and communication",
+      "subcategory": "devices",
+      "path": "icons/technology-and-communication/icon-0084-smartphone.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 912614,
+      "sha256": "02efba34c0a820b87974dcd75d48a9f9394a99440fa610dabf6a7216a72b8fae",
+      "git_blob_sha": "bea815f8cb763f521542027428e07c3f1a984abb"
+    },
+    {
+      "id": "ICON-0085",
+      "concept": "tablet",
+      "category": "Technology and communication",
+      "subcategory": "devices",
+      "path": "icons/technology-and-communication/icon-0085-tablet.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1088858,
+      "sha256": "fbdb783e39f4be22bda60f88d0c5b4d03a9f0b186f71d12eaa318be403a5e85c",
+      "git_blob_sha": "9c7dfa9b50d5e3f5150e084d1034d69da33f381a"
+    },
+    {
+      "id": "ICON-0086",
+      "concept": "smartwatch",
+      "category": "Technology and communication",
+      "subcategory": "devices",
+      "path": "icons/technology-and-communication/icon-0086-smartwatch.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1141806,
+      "sha256": "d5a9fec7801399c239830f9611dc5bc44784454de2c070a46d012d2b9a18551c",
+      "git_blob_sha": "a4163fe451467ef604cc6f8dc39b0e7eb32ed2ed"
+    },
+    {
+      "id": "ICON-0087",
+      "concept": "headphones",
+      "category": "Technology and communication",
+      "subcategory": "devices",
+      "path": "icons/technology-and-communication/icon-0087-headphones.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1130056,
+      "sha256": "79771085dfc6af8e70bce639aa0a7c6b3388027949e61d8713e2849c93cd081f",
+      "git_blob_sha": "d7a65a00f8ab8c7d46f18f0b2fd1c85e55408749"
+    },
+    {
+      "id": "ICON-0088",
+      "concept": "earbuds",
+      "category": "Technology and communication",
+      "subcategory": "devices",
+      "path": "icons/technology-and-communication/icon-0088-earbuds.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1162314,
+      "sha256": "5a1f28f1398d65ef70ea0dba322b3c12a5ff90dda5ec2441ed0aad7947b0fb13",
+      "git_blob_sha": "67324e7d02b3b4a4075a7d1c487a743d20e9d4b8"
+    },
+    {
+      "id": "ICON-0089",
+      "concept": "speaker",
+      "category": "Technology and communication",
+      "subcategory": "devices",
+      "path": "icons/technology-and-communication/icon-0089-speaker.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1167028,
+      "sha256": "d120d0c9dc0dc99d13b30efa75d0fc4630a500fc26f0099ddaf62979d53facc2",
+      "git_blob_sha": "a3d41f2cd0d64eee19ddb4128cfca67da3256a23"
+    },
+    {
+      "id": "ICON-0090",
+      "concept": "microphone",
+      "category": "Technology and communication",
+      "subcategory": "devices",
+      "path": "icons/technology-and-communication/icon-0090-microphone.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 860808,
+      "sha256": "5b2ad61182116e128149020081af7fb6ac55eb3b84845784fb0b3a86c923073c",
+      "git_blob_sha": "ba08c6406742e07e7a0b966b3cb64690d1e43365"
+    },
+    {
+      "id": "ICON-0091",
+      "concept": "router",
+      "category": "Technology and communication",
+      "subcategory": "devices",
+      "path": "icons/technology-and-communication/icon-0091-router.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 887804,
+      "sha256": "6a4f3c419c0ff9b4f83c5939d78f03719233917e7ec4cb30372362d441b433ea",
+      "git_blob_sha": "6656cfaf33acc587dc7d70a02d97e0508adb0bb4"
+    },
+    {
+      "id": "ICON-0092",
+      "concept": "server",
+      "category": "Technology and communication",
+      "subcategory": "devices",
+      "path": "icons/technology-and-communication/icon-0092-server.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1180805,
+      "sha256": "70cb8ecebfbd4ffe3e6ec00d9402617f14236c9525c934ac490874f9dd97e90e",
+      "git_blob_sha": "2e7c0184ef4301bb757bdc10fe4d52c527496b72"
+    },
+    {
+      "id": "ICON-0093",
+      "concept": "cloud",
+      "category": "Technology and communication",
+      "subcategory": "devices",
+      "path": "icons/technology-and-communication/icon-0093-cloud.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 898714,
+      "sha256": "e483c0da8eaf73589527594a915b12853fcf2fad7ca3dd88975ee9b51fe28d45",
+      "git_blob_sha": "4fd8c6281c8f17c4d0dca73193173676423ac565"
+    },
+    {
+      "id": "ICON-0094",
+      "concept": "usb-drive",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0094-usb-drive.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 829452,
+      "sha256": "5a1f19ec3f5ed7bc40ef5d9646c59ef45121959259d7ea8775734430b9025302",
+      "git_blob_sha": "1b3f584c9454e9b06c910d1298ed77d0b1f22128"
+    },
+    {
+      "id": "ICON-0095",
+      "concept": "memory-card",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0095-memory-card.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1048202,
+      "sha256": "8c2858d176755f4e12bd4e760bfc804cb5fc5e9367b37dfdee84768e9c374979",
+      "git_blob_sha": "f57b201f69f4a859d2864d562c4525dbf18a7e68"
+    },
+    {
+      "id": "ICON-0096",
+      "concept": "battery",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0096-battery.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 795975,
+      "sha256": "db8fdbd34b353b39ff5cf320a77ee7f5c5f40a16b46d421cf6396da65abfce44",
+      "git_blob_sha": "1730b6decbc4fa4e4463ce59525b43f1edb2ccc1"
+    },
+    {
+      "id": "ICON-0097",
+      "concept": "charging-plug",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0097-charging-plug.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 950849,
+      "sha256": "65a62418af51f5d13b2ec162eace3cea2893aa80702074f6afa74188cec408cb",
+      "git_blob_sha": "017b279b2042fe88234ec78a0f1115ba6804b2f1"
+    },
+    {
+      "id": "ICON-0098",
+      "concept": "game-controller",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0098-game-controller.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1116243,
+      "sha256": "7746b48f654793ee812d2213395ab3bbaaf91ee0354459176268e395ec9fce22",
+      "git_blob_sha": "ca4c77ccff324920f7d85266a17c0e441931c8e9"
+    },
+    {
+      "id": "ICON-0099",
+      "concept": "vr-headset",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0099-vr-headset.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1158972,
+      "sha256": "526880897f0856559d99c06343c67ddb12b2003b93f67860ff4867aa732952d9",
+      "git_blob_sha": "ad25406750d8f0362a48f5ec5522288e8cbbe7cc"
+    },
+    {
+      "id": "ICON-0100",
+      "concept": "webcam",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0100-webcam.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 977911,
+      "sha256": "ff1bd3f0850907e726ce178e4827c8cd1fa739128f2c6e4e538b23da7fef68ef",
+      "git_blob_sha": "9a58fe106cd29e9051cf7ac58b07f4a024d12fa2"
     }
   ]
 }
