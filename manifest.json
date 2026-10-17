@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
   "completed_originals": 972,
-  "uploaded_originals": 330,
+  "uploaded_originals": 355,
   "status": "uploading",
   "icons": [
     {
@@ -5943,6 +5943,456 @@
       "bytes": 1061086,
       "sha256": "d0cab3b911c0aa349a0a62dd1ce7da24d8f52c317026e27afdb099642ec3733c",
       "git_blob_sha": "7dba50c0ddb8e24fd3c88eb9704432df0c50b2dd"
+    },
+    {
+      "id": "ICON-0326",
+      "concept": "blood-bag",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0326-blood-bag.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 864752,
+      "sha256": "41f018aac8b81524dc59ae08d6caadc1af312560c499fc09c40951885182ac63",
+      "git_blob_sha": "1d665d179ea902ce8af841593e8f8baad1883859"
+    },
+    {
+      "id": "ICON-0327",
+      "concept": "pulse-oximeter",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0327-pulse-oximeter.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1127747,
+      "sha256": "93356e24bc299e369db94c432671e9043da0ea4774618efd3f1338b2c1f80e80",
+      "git_blob_sha": "297bb2eb3a6163904605859d81bf125c8fbc1943"
+    },
+    {
+      "id": "ICON-0328",
+      "concept": "lighthouse",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0328-lighthouse.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 821781,
+      "sha256": "84122c665e9c0dd68f1152a50a5f177545962cece2da3d522f9228bb9b3b355d",
+      "git_blob_sha": "006d9479fe8ed4c7e7150ea344dd3c89510c70c1"
+    },
+    {
+      "id": "ICON-0329",
+      "concept": "windmill",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0329-windmill.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1028076,
+      "sha256": "ca387b154210d7c6d416256b73880a4ab60f4b11937b670bc1e8ddbc20037704",
+      "git_blob_sha": "6723736dfd1d75b1675e196d76534be422262878"
+    },
+    {
+      "id": "ICON-0330",
+      "concept": "pyramid",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0330-pyramid.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1025285,
+      "sha256": "41b9aae5774eb5ac74ee55bc5d13fb9d7f2726b80102b0413f5e5f126bf71da0",
+      "git_blob_sha": "aaf6e284ac2cbcdbcc7ba3e67d0fd226e29a7b0e"
+    },
+    {
+      "id": "ICON-0331",
+      "concept": "castle",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0331-castle.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1137250,
+      "sha256": "aa21e256d7eb34689f6b71429d9c4d1f53d613aa975726a8cb9d681b89725a3b",
+      "git_blob_sha": "53415bc674ec49b1986f87c21de698de825d3583"
+    },
+    {
+      "id": "ICON-0332",
+      "concept": "bridge",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0332-bridge.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1161536,
+      "sha256": "2539bb2dc0c479ed8e8562345b7e687d7ae2fbd6b09c1076fb00841a807bbbdf",
+      "git_blob_sha": "ff6ad5cecb9954126efdd22c9d03f735ababc740"
+    },
+    {
+      "id": "ICON-0333",
+      "concept": "archway",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0333-archway.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1172840,
+      "sha256": "6cc61c99a8f62816d2a18804ac7ac6f5aeec127ca079632cc6362c61647384be",
+      "git_blob_sha": "fe9f8f4dcccf1128c310af673ae0482717097755"
+    },
+    {
+      "id": "ICON-0334",
+      "concept": "gazebo",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0334-gazebo.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1173195,
+      "sha256": "68e15eedd8bd1c81551b85116f9403835aa6976fe4e0a06b9f381850f7e537b6",
+      "git_blob_sha": "e9587315834351ccf71a0ae29fe1f452a13b27f8"
+    },
+    {
+      "id": "ICON-0335",
+      "concept": "pagoda",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0335-pagoda.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1022989,
+      "sha256": "06e30b592d5d81946ca8a9a0c79500acffb19b0763d95b6d1cd5ce76e778f48a",
+      "git_blob_sha": "abcc2e2f44689932f2a177b9c1e807a934a7746d"
+    },
+    {
+      "id": "ICON-0336",
+      "concept": "igloo",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0336-igloo.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1106834,
+      "sha256": "fea56ae77fb2042db043c32cd9c6cdbcd6638de8aa6ff7b2e1d651ccaaf8c4ee",
+      "git_blob_sha": "78634b55211435efc4b46f8f31b3fd6243a1ca77"
+    },
+    {
+      "id": "ICON-0337",
+      "concept": "cable-car",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0337-cable-car.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1082093,
+      "sha256": "17e6523e4641db6d28f4f2c1920ee02395d57275dc00909b74ff25a91345de69",
+      "git_blob_sha": "f2071d02dec53f37fe371d48096b36e75a4caac8"
+    },
+    {
+      "id": "ICON-0338",
+      "concept": "hot-air-balloon",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0338-hot-air-balloon.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 911338,
+      "sha256": "82a79065b92d2b3e18debbbfd8a69bac973d187b8b9e0e386bd3606d837784c7",
+      "git_blob_sha": "15d5f30277b310405e01245bfe09f0b27c999207"
+    },
+    {
+      "id": "ICON-0339",
+      "concept": "beach-chair",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0339-beach-chair.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1160177,
+      "sha256": "d4dbbfbcafe78d8cee5df89b18c29f2a88d1b47f82d969df491b7664a0f6716c",
+      "git_blob_sha": "eedf78182bbc7da0cd9fdf0be2049f4fae7f2675"
+    },
+    {
+      "id": "ICON-0340",
+      "concept": "sunhat",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0340-sunhat.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 979748,
+      "sha256": "7ba63dec437fb1ec3ab04bbd6dcbc98fff9903a7c6e5ffee3fa4812b76179431",
+      "git_blob_sha": "c03fd12b8ab0df457ce65b39ce357ae83fe323b9"
+    },
+    {
+      "id": "ICON-0341",
+      "concept": "binoculars",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0341-binoculars.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1351539,
+      "sha256": "54818c2b5e2b36ef33aa42eb91de10cf97ed903cb19669ad42c04ffc7802e1ab",
+      "git_blob_sha": "9300f1e7efe58a35530a0d05e896d7782507f741"
+    },
+    {
+      "id": "ICON-0342",
+      "concept": "campfire",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0342-campfire.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1144851,
+      "sha256": "7c8d5d710899abad069ea9dd022fafe1ad55e2b72569e38c6fae901f896e9b4f",
+      "git_blob_sha": "86062640228366b375c83b6c00aa69e84bf697f5"
+    },
+    {
+      "id": "ICON-0343",
+      "concept": "sleeping-bag",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0343-sleeping-bag.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1146410,
+      "sha256": "96915e37c946bbdd2a9c72a008a4ac0210bed9666c92fe793608d8f543589510",
+      "git_blob_sha": "68c9f79e6e2459bfc3c834df470cd28bfa349e0c"
+    },
+    {
+      "id": "ICON-0344",
+      "concept": "hiking-boot",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0344-hiking-boot.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1351037,
+      "sha256": "9c83076481af37897465e2568c5056add2a47f593ed29eaafa874dbe7c0d7e92",
+      "git_blob_sha": "0400b7bc2814c88f55c81f8f0d9d09d6f4c8dd7f"
+    },
+    {
+      "id": "ICON-0345",
+      "concept": "camping-lantern",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0345-camping-lantern.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 953077,
+      "sha256": "39cff3c55ec26debb383a82169d3684ebf1167f90896a44be71b3779bdf64ca9",
+      "git_blob_sha": "c6bd6fb45c84ecc1c1952ef52650ac01d77b7275"
+    },
+    {
+      "id": "ICON-0346",
+      "concept": "picnic-basket",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0346-picnic-basket.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1364599,
+      "sha256": "edb9f398258b106e4cc8bad802c9e3cc1f39c7569a8459f4e71d464f08b215cb",
+      "git_blob_sha": "5a05d30ea75829b4aeea39ef10fa361ce25a64d9"
+    },
+    {
+      "id": "ICON-0347",
+      "concept": "passport-stamp",
+      "category": "Travel and destinations",
+      "subcategory": "landmarks-and-outdoors",
+      "path": "icons/travel-and-destinations/icon-0347-passport-stamp.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1114654,
+      "sha256": "1cd3751ccf064dcc5616208daa32d7f805f1216d39324537996171f6d0d5a23d",
+      "git_blob_sha": "bf6ab048ef82109f251d64be20f3906ef908469e"
+    },
+    {
+      "id": "ICON-0348",
+      "concept": "chalkboard",
+      "category": "Education and learning",
+      "subcategory": "school-and-study",
+      "path": "icons/education-and-learning/icon-0348-chalkboard.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1258382,
+      "sha256": "f9fd2020961f2b3017a8f0439b8b1a20d667bdb391216fa2c1f777ac5f82d3cd",
+      "git_blob_sha": "99591ec175471e3d46ba8201baddb9c9ebe92535"
+    },
+    {
+      "id": "ICON-0349",
+      "concept": "counting-blocks",
+      "category": "Education and learning",
+      "subcategory": "school-and-study",
+      "path": "icons/education-and-learning/icon-0349-counting-blocks.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1086790,
+      "sha256": "d19d60bad8a2047f11b1832232061e7c3ba2bd5b480a087a0c5fb27a3deaeef9",
+      "git_blob_sha": "56ea1e5faa9308501c501ea02d6bc4b7e041ca93"
+    },
+    {
+      "id": "ICON-0350",
+      "concept": "fraction-wheel",
+      "category": "Education and learning",
+      "subcategory": "school-and-study",
+      "path": "icons/education-and-learning/icon-0350-fraction-wheel.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1288541,
+      "sha256": "fdb1e0be37eb72530bb6a4c4800728f97bff643952c9c3049d5e1166270151c1",
+      "git_blob_sha": "f2b2925332c4b1ed6307870e4317e50b5aba1f63"
     }
   ],
   "updated_date": "2026-10-17"
