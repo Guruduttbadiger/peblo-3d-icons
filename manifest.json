@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
   "completed_originals": 972,
-  "uploaded_originals": 480,
+  "uploaded_originals": 505,
   "status": "uploading",
   "icons": [
     {
@@ -8643,6 +8643,456 @@
       "bytes": 1130006,
       "sha256": "a183b352a301b3d324290c7653bd11e529cea5997cac14c4b9a203470551fd42",
       "git_blob_sha": "e3819afa602733cbde05e5b8fed1e2efd7689c62"
+    },
+    {
+      "id": "ICON-0476",
+      "concept": "birthday-cake",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0476-birthday-cake.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1131985,
+      "sha256": "aac15f436dc843e342665797d6490da0d328816dffe1b876cedf24c2a027e661",
+      "git_blob_sha": "853f0314d58dac26ddd3203bc624f862c9146a02"
+    },
+    {
+      "id": "ICON-0477",
+      "concept": "celebration-bell",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0477-celebration-bell.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1134002,
+      "sha256": "d375993be7fb32265f49b61ce8b2bde7c206c297724e583639914474d2fb2e30",
+      "git_blob_sha": "09519ea273573cce58b18420b4659045dc4cc22f"
+    },
+    {
+      "id": "ICON-0478",
+      "concept": "party-popper",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0478-party-popper.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 812700,
+      "sha256": "899fce24eb839fa46fb7d0128e5879b0ff86df5c64f8411ed5a130366c45fcc1",
+      "git_blob_sha": "9eb391983bb7cf751865f25dfd278a41e254f4f3"
+    },
+    {
+      "id": "ICON-0479",
+      "concept": "disco-ball",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0479-disco-ball.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1007714,
+      "sha256": "726179a3ca09db5bef310caaf4acbe156f4168230e6ea4c38f4ca21ea272c037",
+      "git_blob_sha": "634bc427d648088544d39e39e8bc69ec3dbefc86"
+    },
+    {
+      "id": "ICON-0480",
+      "concept": "medal",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0480-medal.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1052706,
+      "sha256": "8db0d6a6f1d2fb1cf6c274dbc8ac7d7468eb4152b75d2faec2080e815777a290",
+      "git_blob_sha": "fa9f71647e261946bbce603a8d09991438eeccdd"
+    },
+    {
+      "id": "ICON-0481",
+      "concept": "trophy-cup",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0481-trophy-cup.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1152299,
+      "sha256": "0f5f6633337d6ed73898b040b60c63448c5847017f77e7fb1a9a2fba1c3d34d8",
+      "git_blob_sha": "e643684717beea1ae975d890aca2d15f1de62f5e"
+    },
+    {
+      "id": "ICON-0482",
+      "concept": "roller-skate",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0482-roller-skate.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1152980,
+      "sha256": "a58e20288d6549139a8adccca60b439f29215df7ff77221c8737c0706c7960bb",
+      "git_blob_sha": "3f38e41fc62b2f64eb79be3c50df7f40e708d6eb"
+    },
+    {
+      "id": "ICON-0483",
+      "concept": "skateboard",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0483-skateboard.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1012864,
+      "sha256": "c0e6b54d019ed4b0ee6956b6a101333a2b1af8023aa60c9e6c0e4517ad5bf98c",
+      "git_blob_sha": "8b83b9b0834b49c9851643c2c851ebd1b56d8df3"
+    },
+    {
+      "id": "ICON-0484",
+      "concept": "surfboard",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0484-surfboard.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 677199,
+      "sha256": "0c56817545e3d94f9f35041562ef2baf2dcd33a5cf7343ddbdf195c0bea45e46",
+      "git_blob_sha": "ef74abbb8ea1c728f5dc567595f157c3ae4bd8b9"
+    },
+    {
+      "id": "ICON-0485",
+      "concept": "hammock",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0485-hammock.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 895316,
+      "sha256": "c1cf9f3724d850a0c0896cf5c34e718c8df26f7c45d374d96c960d24b644d588",
+      "git_blob_sha": "be5085f967f8e843fbd2ca2fab9e8f05964edf9b"
+    },
+    {
+      "id": "ICON-0486",
+      "concept": "camera-tripod",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0486-camera-tripod.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 980936,
+      "sha256": "0e3e45046c2fc615d7b0d6f3502ac22064357b06ef92523f49d70d6be8812515",
+      "git_blob_sha": "f1a45a91280001f04ab4ade9cec48563e78c1d66"
+    },
+    {
+      "id": "ICON-0487",
+      "concept": "flower-pot",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0487-flower-pot.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 962536,
+      "sha256": "9b4c97b30ed5bfec29203b9e3fd20f79c60f79d1c671d5b85a245de532ab0dac",
+      "git_blob_sha": "1d4b56e945381c002362c7fbdf53c8219e0b2fa3"
+    },
+    {
+      "id": "ICON-0488",
+      "concept": "taxi",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0488-taxi.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1207766,
+      "sha256": "04fe8b643ebd055658260b5d7442d7e1c2fbe991e3e38f106343d8081544263c",
+      "git_blob_sha": "986da517377d920a20b8ea8b38bb7fdb555419e3"
+    },
+    {
+      "id": "ICON-0489",
+      "concept": "delivery-van",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0489-delivery-van.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1294770,
+      "sha256": "cc22454e45b50c53452de59072adb3c04d0f781d719132511cb660e0e3ad3b41",
+      "git_blob_sha": "0cfb2bb63addc463ebfda78d91da4eda9be151a7"
+    },
+    {
+      "id": "ICON-0490",
+      "concept": "ambulance",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0490-ambulance.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1381925,
+      "sha256": "cccaf781473639dd75efecd53e7a4b7e8106c679f44151c1214caa45c58daab7",
+      "git_blob_sha": "054e2e0227cca0f0f3659f4b00caecfd00b54c02"
+    },
+    {
+      "id": "ICON-0491",
+      "concept": "fire-engine",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0491-fire-engine.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1554752,
+      "sha256": "4050e2bae00537fa17fbc92f48c940efdb951a479af93fce1c95e783fc319bb2",
+      "git_blob_sha": "612440fc208eee4b72db0c5a00d0b45736c7e38d"
+    },
+    {
+      "id": "ICON-0492",
+      "concept": "tractor",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0492-tractor.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1375068,
+      "sha256": "595c3da6e8cb4c8e5e8047b46132ff6011b8448dca1c7ff22eac12d24dc764b7",
+      "git_blob_sha": "dd51340fcbaa6ede51235a79e52e441f468d071f"
+    },
+    {
+      "id": "ICON-0493",
+      "concept": "forklift",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0493-forklift.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1159782,
+      "sha256": "5eed84dfe3ef368d9d935f52ff7b1e5b23053ec03173742fabc28846e4ec566f",
+      "git_blob_sha": "b3a2fe60e1b8b206acff4113b6ed3bb9b7ba0394"
+    },
+    {
+      "id": "ICON-0494",
+      "concept": "snowmobile",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0494-snowmobile.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1136973,
+      "sha256": "16f60772455eafbd477bf0459697624c2c83c0e9b735a3d9c9179e73dd26b252",
+      "git_blob_sha": "3a0da58ebd95dbfc71eb496c944ad92a55c40fe3"
+    },
+    {
+      "id": "ICON-0495",
+      "concept": "tuk-tuk",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0495-tuk-tuk.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1273569,
+      "sha256": "0e168af525d147462e5b9e3e673ebd67ac204bed270b240a73446063994fb1e0",
+      "git_blob_sha": "ac316de2f198f6c59ef8a8d15aa03265a5ba233e"
+    },
+    {
+      "id": "ICON-0496",
+      "concept": "rocket",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0496-rocket.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1112116,
+      "sha256": "971d14eae146502651d6bb28eacf9834dff6f7d6975eb1f5a5183c48b2e97332",
+      "git_blob_sha": "6a2743aa74afcebceb51936359fdeec6ac9c5d22"
+    },
+    {
+      "id": "ICON-0497",
+      "concept": "submarine",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0497-submarine.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1070366,
+      "sha256": "34cbc933006152b056ad32eea8418e2edcd89c2e149b7424bd62261392815077",
+      "git_blob_sha": "08c392b11a1b2cda94315349a24632bee6965d3b"
+    },
+    {
+      "id": "ICON-0498",
+      "concept": "speedboat",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0498-speedboat.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1012339,
+      "sha256": "879b4ff809a3d158f4efd387e02059762b2d7861e902db66c0de09f963b0cc06",
+      "git_blob_sha": "82d32e8f92e3ccde6ec7964115a76204f5348427"
+    },
+    {
+      "id": "ICON-0499",
+      "concept": "yacht",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0499-yacht.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1183562,
+      "sha256": "be169385935849fd29fb3fcfa2c5da37441bc21cfa906b3406e774ef5750dbd5",
+      "git_blob_sha": "2a240175f7558847b6871f7b9684d28087d950d4"
+    },
+    {
+      "id": "ICON-0500",
+      "concept": "tram",
+      "category": "Transport and mobility",
+      "subcategory": "vehicles-and-navigation",
+      "path": "icons/transport-and-mobility/icon-0500-tram.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1303589,
+      "sha256": "fbdfe6098ef9a9b6225e775372a8193e933f25decc3637cefcd4dd0d125cba5e",
+      "git_blob_sha": "bc71d5f44d018e7dc9e4f6178ddabf5519d34deb"
     }
   ],
   "updated_date": "2026-10-17"
