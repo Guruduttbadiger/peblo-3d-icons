@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
   "completed_originals": 972,
-  "uploaded_originals": 530,
+  "uploaded_originals": 581,
   "status": "uploading",
   "icons": [
     {
@@ -3603,96 +3603,6 @@
       "bytes": 1216828,
       "sha256": "08cac04655a9df9418ba66c58208993ffc55c903bb49a2b785149451ea488ae0",
       "git_blob_sha": "dc8dbade61f753470de713d7b731eef94bc4059f"
-    },
-    {
-      "id": "ICON-0968",
-      "concept": "coral-reef",
-      "category": "Travel and destinations",
-      "subcategory": "landforms-and-landmarks",
-      "path": "icons/travel-and-destinations/icon-0968-coral-reef.png",
-      "width": 1254,
-      "height": 1254,
-      "mode": "RGBA",
-      "alpha_range": [
-        0,
-        255
-      ],
-      "revision": 1,
-      "bytes": 1185814,
-      "sha256": "ba35464bac297f190780aa038cf1fc34030f0638725a1d9cc0953aeed55899ae",
-      "git_blob_sha": "d291516fdfab104a4af8469f879d5e4ad69982f4"
-    },
-    {
-      "id": "ICON-0969",
-      "concept": "glacier",
-      "category": "Travel and destinations",
-      "subcategory": "landforms-and-landmarks",
-      "path": "icons/travel-and-destinations/icon-0969-glacier.png",
-      "width": 1254,
-      "height": 1254,
-      "mode": "RGBA",
-      "alpha_range": [
-        0,
-        255
-      ],
-      "revision": 1,
-      "bytes": 1174067,
-      "sha256": "efa5def3a26e69721bfa5babb604a8df69bd2fda3efb3368706f37ebc52be44f",
-      "git_blob_sha": "625f9aec96183f15e6b0244f17a8fab8e5eef6e1"
-    },
-    {
-      "id": "ICON-0970",
-      "concept": "iceberg",
-      "category": "Travel and destinations",
-      "subcategory": "landforms-and-landmarks",
-      "path": "icons/travel-and-destinations/icon-0970-iceberg.png",
-      "width": 1254,
-      "height": 1254,
-      "mode": "RGBA",
-      "alpha_range": [
-        0,
-        255
-      ],
-      "revision": 1,
-      "bytes": 814192,
-      "sha256": "bc501cac0f328fe663fa383aefe2e90bd83e47c94404fd44d1437dc237ad2892",
-      "git_blob_sha": "a781f23f0dfc149535aaece16afc1c6f1eac23ff"
-    },
-    {
-      "id": "ICON-0971",
-      "concept": "geyser",
-      "category": "Travel and destinations",
-      "subcategory": "landforms-and-landmarks",
-      "path": "icons/travel-and-destinations/icon-0971-geyser.png",
-      "width": 1254,
-      "height": 1254,
-      "mode": "RGBA",
-      "alpha_range": [
-        0,
-        255
-      ],
-      "revision": 1,
-      "bytes": 860182,
-      "sha256": "db5eeff42224bea7a34c53af58b9db33c6ed964b04fdf81a0e0163c1b3f8bd70",
-      "git_blob_sha": "b4903ce6ef7109c62b98bb16921aae7d60c488d9"
-    },
-    {
-      "id": "ICON-0972",
-      "concept": "atoll",
-      "category": "Travel and destinations",
-      "subcategory": "landforms-and-landmarks",
-      "path": "icons/travel-and-destinations/icon-0972-atoll.png",
-      "width": 1254,
-      "height": 1254,
-      "mode": "RGBA",
-      "alpha_range": [
-        0,
-        255
-      ],
-      "revision": 1,
-      "bytes": 1022267,
-      "sha256": "385bac9d98957277ed79aad5cc3000fe3fe5dd55b2670822acf112515ca01062",
-      "git_blob_sha": "bafd5911a9bc144a645a976527f4c7d8c60d7f40"
     },
     {
       "id": "ICON-0201",
@@ -9543,6 +9453,1014 @@
       "bytes": 1110713,
       "sha256": "dc15484a672b8d96250ffcca640fe2ec195a1a2d4dfef8bf792347fcc4f18008",
       "git_blob_sha": "a3dd8a76d49d35538ed2a8a47806b805a44351a2"
+    },
+    {
+      "id": "ICON-0526",
+      "concept": "heating-pad",
+      "category": "Health and wellbeing",
+      "subcategory": "care-and-fitness",
+      "path": "icons/health-and-wellbeing/icon-0526-heating-pad.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1298012,
+      "sha256": "21d1e50ad7c2955f25f7641d634d921a264282dcc0a1616cf3395210df35fdbf",
+      "git_blob_sha": "5b86a4304dd37be7379df3fc8db0323ec15877d0"
+    },
+    {
+      "id": "ICON-0527",
+      "concept": "hand-sanitizer",
+      "category": "Health and wellbeing",
+      "subcategory": "care-and-fitness",
+      "path": "icons/health-and-wellbeing/icon-0527-hand-sanitizer.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 996145,
+      "sha256": "207947f28596f70a26837d50cfe6e501c99a43f5862071e2ab422bbbde5f6786",
+      "git_blob_sha": "b388415f5955b011cbf0480f082e9eff10cce7e8"
+    },
+    {
+      "id": "ICON-0528",
+      "concept": "microwave-oven",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0528-microwave-oven.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1347490,
+      "sha256": "d79e544b989a9ba6430182d6675ff738fc9de4d8650cfdfae5c4dd00a622c69e",
+      "git_blob_sha": "6ad274739593c19e63aa68945b8a4f0cc034ff53"
+    },
+    {
+      "id": "ICON-0529",
+      "concept": "rice-cooker",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0529-rice-cooker.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 985877,
+      "sha256": "7570c6494b4651f08a8108cb1ff32784ee76bdb2ec5ed73bda6a58fefa6ea5d6",
+      "git_blob_sha": "62042938225fb1c24093b12f776841de18205854"
+    },
+    {
+      "id": "ICON-0530",
+      "concept": "blender",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0530-blender.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1200503,
+      "sha256": "7a17d8e64fd3acc6f9e549177e5e9c6f4e3e7107a1e2b349d03cbf04bdf141e5",
+      "git_blob_sha": "911c0f08d22ce5c539fcc73c4d87cd5c01dec615"
+    },
+    {
+      "id": "ICON-0531",
+      "concept": "coffee-maker",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0531-coffee-maker.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1319594,
+      "sha256": "5da052c6b158a88f677dcf8bbb451a8a9b0e65699cfced63469e7b2e6d0aae1d",
+      "git_blob_sha": "3f1615dc0708669bbf8d7b337eca30bfb8b079d6"
+    },
+    {
+      "id": "ICON-0532",
+      "concept": "dishwasher",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0532-dishwasher.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1215588,
+      "sha256": "f3ae8e6865ba7e191661a1f2831a35fd3a014774a189f295b70db8ee37f7a836",
+      "git_blob_sha": "63b168bf1d7436fbd5c0cee43c0812518dd7e6c7"
+    },
+    {
+      "id": "ICON-0533",
+      "concept": "air-conditioner",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0533-air-conditioner.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 930024,
+      "sha256": "5d433b82fca895d0cae020ae2b50c4780a15593c95c1631004b624cf9d5fbd0e",
+      "git_blob_sha": "63b06138aa90593ebb67e9ae03f7c387ad911b82"
+    },
+    {
+      "id": "ICON-0534",
+      "concept": "radiator",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0534-radiator.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1269787,
+      "sha256": "5fa3175262ffdbbeeb97d3d5e15b23a2a5aa9afffad18c31b08b17111e29a62c",
+      "git_blob_sha": "85fe493828b906ee8721ff38f0af9927cd100ead"
+    },
+    {
+      "id": "ICON-0535",
+      "concept": "ceiling-fan",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0535-ceiling-fan.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 680140,
+      "sha256": "a1cca7f431eb0dfc0afa41045356688063382a12d1468abc1dd98e61a54e62da",
+      "git_blob_sha": "b0e85be1f3159a309b36fcf88d71c543471c87d1"
+    },
+    {
+      "id": "ICON-0536",
+      "concept": "humidifier",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0536-humidifier.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1055946,
+      "sha256": "ade6842104a76316686f53059cc4eed0b05d21b9720c5f69c0cf5b94016641f0",
+      "git_blob_sha": "3b9da72c53af8a4cdfb6c4c7afc1d7e4cf2515dc"
+    },
+    {
+      "id": "ICON-0537",
+      "concept": "bookshelf",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0537-bookshelf.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1269422,
+      "sha256": "21c73e7257535663ec7181bfe7f129b0c16c12034029e38f4082d6b6b4d61382",
+      "git_blob_sha": "127999a971ac00b1d6baec6d17f2da1d98770043"
+    },
+    {
+      "id": "ICON-0538",
+      "concept": "bed",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0538-bed.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1237642,
+      "sha256": "8264c9522b5ce092170acf1b1e3c50261d683b2bb89077a4ac22de9da58e4278",
+      "git_blob_sha": "b1d66734b277629e0d965cc7e93840f98871c396"
+    },
+    {
+      "id": "ICON-0539",
+      "concept": "nightstand",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0539-nightstand.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1157375,
+      "sha256": "62fdbaceb076a316ffd10909d3a773672694fd18d3311cef55d442010da0c5c7",
+      "git_blob_sha": "29d66482d303fd670dee373f62a4e0fdd5547f05"
+    },
+    {
+      "id": "ICON-0540",
+      "concept": "wardrobe",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0540-wardrobe.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1190058,
+      "sha256": "b82f1b1a755ecf400399a7c755331286bee82dcc840b2c0255a4654354b53ac2",
+      "git_blob_sha": "2396ca5ef0369d0abe3c31e360cbd0c80a3e14aa"
+    },
+    {
+      "id": "ICON-0541",
+      "concept": "dresser",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0541-dresser.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1404540,
+      "sha256": "39c22afea19239b63a1223f609928ab0aa19f45e3ab74128294785f8094bbd8a",
+      "git_blob_sha": "2d84a437ff747d822a8b8afcdddd1ba3b5ae7330"
+    },
+    {
+      "id": "ICON-0542",
+      "concept": "doorbell",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0542-doorbell.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1066992,
+      "sha256": "ee4927456948c11dc8857df22e06578747efe23304c0231b08b212d4ae2dbbfe",
+      "git_blob_sha": "ed355627d48e43eaad57a821eeb9f69bc8addded"
+    },
+    {
+      "id": "ICON-0543",
+      "concept": "keyring",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0543-keyring.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 898719,
+      "sha256": "6398d2532f22f064a074d9fecb8e86ce1e5c00906a46aa36d26a3266b83e72b5",
+      "git_blob_sha": "2565e006ac1e33aa783fa2bba5ccc3c26206c3d0"
+    },
+    {
+      "id": "ICON-0544",
+      "concept": "toolbox",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0544-toolbox.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1260883,
+      "sha256": "c7275229e71aa5340a52b739735480422defa75f46fd4028ebb431ffb807b046",
+      "git_blob_sha": "a9ca5848d68dedbc91c8322ea90b897c27203b4d"
+    },
+    {
+      "id": "ICON-0545",
+      "concept": "hammer",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0545-hammer.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 652664,
+      "sha256": "e33e79d402010ae88ed0de51671812acab88ea291166fb80722a2ef6c3ead602",
+      "git_blob_sha": "919e3339f0f49d8baeb63a4ef19352e874b9c591"
+    },
+    {
+      "id": "ICON-0546",
+      "concept": "screwdriver",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0546-screwdriver.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 666047,
+      "sha256": "a5ef86d8e9c581060bcd280301c5a11706cdd0b6dd5536b5ca472c7fad2bd568",
+      "git_blob_sha": "a4f5844a463ccf2d81fa25e0c872f3462c111907"
+    },
+    {
+      "id": "ICON-0547",
+      "concept": "measuring-tape",
+      "category": "Home and everyday life",
+      "subcategory": "household-essentials",
+      "path": "icons/home-and-everyday-life/icon-0547-measuring-tape.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1115293,
+      "sha256": "94776edd2ba71922844c14c68e4bc74ada5435b37f4e17aa0c1e16e552c6938f",
+      "git_blob_sha": "34e01ca7dab450f4549882a9372fee8ebcb2113c"
+    },
+    {
+      "id": "ICON-0548",
+      "concept": "burrito",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0548-burrito.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1162042,
+      "sha256": "b2d90f02bd9e8e07fe44dcfcec841604d1cdddaff14952d0ec38e1cc0c0ff652",
+      "git_blob_sha": "110a3fa1a123df5a7be23236404260a49d82adf7"
+    },
+    {
+      "id": "ICON-0549",
+      "concept": "sushi-roll",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0549-sushi-roll.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1361517,
+      "sha256": "d0f66048f2a1dc283a222e6285cf00f68d3ba76e96c96fa886fad9a9805a3181",
+      "git_blob_sha": "5340c10e86d746fe8f48036c4b76c10ff0cf0da4"
+    },
+    {
+      "id": "ICON-0550",
+      "concept": "ramen-bowl",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0550-ramen-bowl.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1137499,
+      "sha256": "fff528fd511964dbc0f07d4c31e4258beef523bc69166e337b69a70c6c00bf82",
+      "git_blob_sha": "8fd39dd6132a42f3bfc490e092c3345013abf577"
+    },
+    {
+      "id": "ICON-0551",
+      "concept": "pancake-stack",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0551-pancake-stack.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1154343,
+      "sha256": "e9064874f60a1a062f1aff471cd5b11daa2adfa9f453d034489d3c27453a13e9",
+      "git_blob_sha": "e81975db8c98991abfe944466b6933396154fd1d"
+    },
+    {
+      "id": "ICON-0552",
+      "concept": "waffle",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0552-waffle.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1237446,
+      "sha256": "dab7ce34e587a02715effce93f891a64e0f25d0766829048a9117f4156c2d6d9",
+      "git_blob_sha": "e8e4ac59e3247a60d79ad530ad2c9da54a955fc1"
+    },
+    {
+      "id": "ICON-0553",
+      "concept": "donut",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0553-donut.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1277770,
+      "sha256": "26828443009432ca317c5afd19bea354cc5fafa43a54c7135f59577ebf23bdb4",
+      "git_blob_sha": "b7d8d07e68794fbb3bd2dae06b31bb52d1c5efc2"
+    },
+    {
+      "id": "ICON-0554",
+      "concept": "cookie",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0554-cookie.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1372387,
+      "sha256": "d44318d91e4976f59bd37e30d742c4a3d7553e7422ec5687ede17223810adf64",
+      "git_blob_sha": "d461c32ee9314572aca2f507c0f6150e927c0659"
+    },
+    {
+      "id": "ICON-0555",
+      "concept": "chocolate-bar",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0555-chocolate-bar.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1115948,
+      "sha256": "790bee4878a5b338879c12688fc4fe1a814158ceab30ef4021e24f596d6fe4d7",
+      "git_blob_sha": "fe41e492dd3e6049adad68d13363d65a3d7f2d89"
+    },
+    {
+      "id": "ICON-0556",
+      "concept": "honey-jar",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0556-honey-jar.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1204091,
+      "sha256": "7998be8a75ca7120a520e918d1adac89f1948fe8756cf826ae1d543012903516",
+      "git_blob_sha": "2894be74beb72be28100081a068451b0c2a7036f"
+    },
+    {
+      "id": "ICON-0557",
+      "concept": "jam-jar",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0557-jam-jar.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1184756,
+      "sha256": "2d1b107d527802b505588287fdbc39a4b109fb3c60445ae59290b51b2940df11",
+      "git_blob_sha": "4db23a4cbf46c2a5b1e621e5faf27967ef789a2c"
+    },
+    {
+      "id": "ICON-0558",
+      "concept": "cereal-bowl",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0558-cereal-bowl.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1093018,
+      "sha256": "ad7d2d450249ed4b1b02278c5a5254032f916efae52aee4eba3c45e0b483a730",
+      "git_blob_sha": "40ef181e68df286d5ba08ceae2bc4a256a4af560"
+    },
+    {
+      "id": "ICON-0559",
+      "concept": "yogurt-cup",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0559-yogurt-cup.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1159906,
+      "sha256": "efd765ba680fd593312b4914272682662997a0503cbe0b9b8079d0b68ced5fc1",
+      "git_blob_sha": "cb4ee3ab89c608b9721ab728bd0cf5768301c111"
+    },
+    {
+      "id": "ICON-0560",
+      "concept": "butter-dish",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0560-butter-dish.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1146515,
+      "sha256": "ab65d75088b20a3498972e2bffacbb0b252fe8578803c8b0f684abf6a8a5b19f",
+      "git_blob_sha": "5ccf5358f8b21b38ae62183c777d6552baadb17e"
+    },
+    {
+      "id": "ICON-0561",
+      "concept": "ketchup-bottle",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0561-ketchup-bottle.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 863214,
+      "sha256": "b35792173799433bdb625fac04415cb08baee0cdfdac54ea7376b9ca2d4d8791",
+      "git_blob_sha": "58a8ea26c7627b394e561d91f65db49eeb48ea3e"
+    },
+    {
+      "id": "ICON-0562",
+      "concept": "mustard-bottle",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0562-mustard-bottle.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 832625,
+      "sha256": "a65a178ffec4aa200277a6cf5a508593b7eae444792ba3739ade235b19948a34",
+      "git_blob_sha": "864bb33ab2f662cefc9e5b82f355600453446529"
+    },
+    {
+      "id": "ICON-0563",
+      "concept": "garlic-bulb",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0563-garlic-bulb.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1045882,
+      "sha256": "f44b856fc08316a0b45243efbfe122673f5d24650dc27803bfd970fab1456e19",
+      "git_blob_sha": "1a29787e460fb9aa8162cc5c190d95754091aecf"
+    },
+    {
+      "id": "ICON-0564",
+      "concept": "onion",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0564-onion.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 882044,
+      "sha256": "e85b7f33d4240ff90e45bf4fad56abb72d9e72a9b05f5db0652d4194e2c2b49d",
+      "git_blob_sha": "2fccca1eef439d91f0b52a38ed48b7de3fac1ea2"
+    },
+    {
+      "id": "ICON-0565",
+      "concept": "bell-pepper",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0565-bell-pepper.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1155081,
+      "sha256": "555015d1fc8a26d448cdac697c0372277795e6fca14f737d354c87914b08d314",
+      "git_blob_sha": "61d1d8a8bbe9b898e5e0670ba0135d930c60804e"
+    },
+    {
+      "id": "ICON-0566",
+      "concept": "corn-cob",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0566-corn-cob.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1082567,
+      "sha256": "61d40f03c9f78812a2c1dc851afed7c5c297cb7de68daa395c499846191d7f63",
+      "git_blob_sha": "ecfc38e3354147f767262da142656b82ff56a0ec"
+    },
+    {
+      "id": "ICON-0567",
+      "concept": "pineapple",
+      "category": "Food and drink",
+      "subcategory": "prepared-foods-and-pantry",
+      "path": "icons/food-and-drink/icon-0567-pineapple.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1071988,
+      "sha256": "5b790900b283251467f2e9ea7b2925d2982e3e751b1cc0ed7874c599f2c653ad",
+      "git_blob_sha": "84e1a9c34c009148ce73fd8885de063b830cbdb6"
+    },
+    {
+      "id": "ICON-0568",
+      "concept": "school-bus-pass",
+      "category": "Education and learning",
+      "subcategory": "learning-tools",
+      "path": "icons/education-and-learning/icon-0568-school-bus-pass.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1174336,
+      "sha256": "452b97d69a71bbd4701f069d42c6819bf5b38d67764e53db8e313330510dac85",
+      "git_blob_sha": "957635b02288885b1a8de999815f868b353dd00b"
+    },
+    {
+      "id": "ICON-0569",
+      "concept": "backpack-books",
+      "category": "Education and learning",
+      "subcategory": "learning-tools",
+      "path": "icons/education-and-learning/icon-0569-backpack-books.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1349513,
+      "sha256": "ed98427551a986e5835e6a718903b4d9464752aa2e01915a1be51b5d6fbd3f0e",
+      "git_blob_sha": "a5c0091e768894cec3416f43023f5d57e85880c6"
+    },
+    {
+      "id": "ICON-0570",
+      "concept": "pencil-sharpener",
+      "category": "Education and learning",
+      "subcategory": "learning-tools",
+      "path": "icons/education-and-learning/icon-0570-pencil-sharpener.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1367514,
+      "sha256": "de2e8fbbfc6f7d35615159f14fd974fb1592855d8b7ed1660f899eb82d02b580",
+      "git_blob_sha": "93cdf5a1e33120ca7b8633ac24fcd9b0c1bb4053"
+    },
+    {
+      "id": "ICON-0571",
+      "concept": "eraser",
+      "category": "Education and learning",
+      "subcategory": "learning-tools",
+      "path": "icons/education-and-learning/icon-0571-eraser.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1049295,
+      "sha256": "99edd97f75cfd2ac31bdc57f59f0f91e6c0ff29caf7c18bdd1ee7000129c101b",
+      "git_blob_sha": "aa72ced1eb9f5e2b3a466f2e8e0cc3f8925e9d6f"
+    },
+    {
+      "id": "ICON-0572",
+      "concept": "crayon-box",
+      "category": "Education and learning",
+      "subcategory": "learning-tools",
+      "path": "icons/education-and-learning/icon-0572-crayon-box.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1236914,
+      "sha256": "efe92d7d05d8425a57506cfcfac43f16dcfec4596f3730356a275b0b15dd3ec3",
+      "git_blob_sha": "a3f06aab1523cebcac83e6338f040b4af41d552c"
+    },
+    {
+      "id": "ICON-0573",
+      "concept": "watercolor-set",
+      "category": "Education and learning",
+      "subcategory": "learning-tools",
+      "path": "icons/education-and-learning/icon-0573-watercolor-set.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1449359,
+      "sha256": "5143c53ba8520f778840337c0c8be1d2320e138b51b58a54396c873ae0661e06",
+      "git_blob_sha": "0d49797fddb08bde67bf8f0ab8c78c180d755e02"
+    },
+    {
+      "id": "ICON-0574",
+      "concept": "music-notes",
+      "category": "Education and learning",
+      "subcategory": "learning-tools",
+      "path": "icons/education-and-learning/icon-0574-music-notes.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1348234,
+      "sha256": "489d071070bcf921fb29d4ec331254939a0c9c27931f5d99eaff4b479ba5a400",
+      "git_blob_sha": "1a10a9173dabc07a0a9de0c152cff5e9c3ca3d87"
+    },
+    {
+      "id": "ICON-0575",
+      "concept": "school-clock",
+      "category": "Education and learning",
+      "subcategory": "learning-tools",
+      "path": "icons/education-and-learning/icon-0575-school-clock.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 930430,
+      "sha256": "b8797e0d37dead361e8b71cdb217c4a5453e282a6ce30d220b4f7655416d3f11",
+      "git_blob_sha": "7e3e7d9d3d4388e31f541ed80504dc2f74b60916"
+    },
+    {
+      "id": "ICON-0576",
+      "concept": "calculator-school",
+      "category": "Education and learning",
+      "subcategory": "learning-tools",
+      "path": "icons/education-and-learning/icon-0576-calculator-school.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1275641,
+      "sha256": "b5b33733895a21218d342c8637c6083540ec339a0ce5e1fd6f626cc41af6a2fc",
+      "git_blob_sha": "9fc03fa5121a0bd7e771a8f17d4d51c4ac5aacb1"
+    },
+    {
+      "id": "ICON-0968",
+      "concept": "coral-reef",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0968-coral-reef.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1185814,
+      "sha256": "ba35464bac297f190780aa038cf1fc34030f0638725a1d9cc0953aeed55899ae",
+      "git_blob_sha": "d291516fdfab104a4af8469f879d5e4ad69982f4"
+    },
+    {
+      "id": "ICON-0969",
+      "concept": "glacier",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0969-glacier.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1174067,
+      "sha256": "efa5def3a26e69721bfa5babb604a8df69bd2fda3efb3368706f37ebc52be44f",
+      "git_blob_sha": "625f9aec96183f15e6b0244f17a8fab8e5eef6e1"
+    },
+    {
+      "id": "ICON-0970",
+      "concept": "iceberg",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0970-iceberg.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 814192,
+      "sha256": "bc501cac0f328fe663fa383aefe2e90bd83e47c94404fd44d1437dc237ad2892",
+      "git_blob_sha": "a781f23f0dfc149535aaece16afc1c6f1eac23ff"
+    },
+    {
+      "id": "ICON-0971",
+      "concept": "geyser",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0971-geyser.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 860182,
+      "sha256": "db5eeff42224bea7a34c53af58b9db33c6ed964b04fdf81a0e0163c1b3f8bd70",
+      "git_blob_sha": "b4903ce6ef7109c62b98bb16921aae7d60c488d9"
+    },
+    {
+      "id": "ICON-0972",
+      "concept": "atoll",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0972-atoll.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1022267,
+      "sha256": "385bac9d98957277ed79aad5cc3000fe3fe5dd55b2670822acf112515ca01062",
+      "git_blob_sha": "bafd5911a9bc144a645a976527f4c7d8c60d7f40"
     }
   ],
   "updated_date": "2026-10-17"
