@@ -4,7 +4,7 @@
 
 Designed in muted coral, warm cream and deep teal, with rounded forms and a consistent elevated three-quarter view.
 
-**Upload in progress: 681 of 972 original PNG files are currently published.** Check `manifest.json` for the exact published files.
+**Upload in progress: 781 of 972 original PNG files are currently published.** Check `manifest.json` for the exact published files.
 
 ## Categories
 
