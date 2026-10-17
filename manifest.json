@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
   "completed_originals": 972,
-  "uploaded_originals": 380,
+  "uploaded_originals": 405,
   "status": "uploading",
   "icons": [
     {
@@ -6843,6 +6843,456 @@
       "bytes": 1176180,
       "sha256": "3a7041fa2fd45829fc6f949ce788ca71581c4e8296ef10a24fca301cc1fe5a2c",
       "git_blob_sha": "c8cf93f44a0fb831af33bc0d3f38ca2ca5d896be"
+    },
+    {
+      "id": "ICON-0376",
+      "concept": "inbox-tray",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0376-inbox-tray.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1331553,
+      "sha256": "14d23c5c5c64fa5e08a940fcc31a654374b227250299736af892f634adaa160d",
+      "git_blob_sha": "97392dfa1709391004bb315cbf6ff37365bd316f"
+    },
+    {
+      "id": "ICON-0377",
+      "concept": "label-maker",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0377-label-maker.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1046967,
+      "sha256": "af12662fb75838aeaa35a36096565c652f29dc286d86c3311add02f953d79131",
+      "git_blob_sha": "121640791d5251b376f70810f3cb9f2092f4a765"
+    },
+    {
+      "id": "ICON-0378",
+      "concept": "presentation-easel",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0378-presentation-easel.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1086460,
+      "sha256": "71f8c46b7aa79f1670584347718c276463f740e1b63f58d38e172197634be39c",
+      "git_blob_sha": "26256d330da13bfde6a216b2ef5ed64f618ee0da"
+    },
+    {
+      "id": "ICON-0379",
+      "concept": "conference-table",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0379-conference-table.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 960292,
+      "sha256": "aea6bf3d8de12fef10b736c1de5ad53f7753cfe0b541cadaf202af3b36937bb3",
+      "git_blob_sha": "fc13231dc60dae8cd3ec0e457ae7b137245ea7e6"
+    },
+    {
+      "id": "ICON-0380",
+      "concept": "headset",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0380-headset.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1252151,
+      "sha256": "59ad71d0337d1ab0b1f65494101074a398b157cfde7250ec5091c317285379a6",
+      "git_blob_sha": "98b80485ae69f1f068dd9f31ec0095dc801b70e8"
+    },
+    {
+      "id": "ICON-0381",
+      "concept": "coffee-tumbler",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0381-coffee-tumbler.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 963818,
+      "sha256": "7415ccb99dd6f36febacb94faed8c6629861524d576b883fca57fd6df7ad79dc",
+      "git_blob_sha": "0613958b2600971a8b0e2bab02f7ce9b79a92360"
+    },
+    {
+      "id": "ICON-0382",
+      "concept": "business-card-holder",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0382-business-card-holder.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1303431,
+      "sha256": "1a631f51b07e9acd9e1c687e069998f855d10d6667eef62f8ae8008107ec875c",
+      "git_blob_sha": "652e8ec4b9b89032829fcf02229fad84499fb6df"
+    },
+    {
+      "id": "ICON-0383",
+      "concept": "document-folder",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0383-document-folder.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1176988,
+      "sha256": "c57962bdb1da407dc141301e55d9cdea47bc6668b6d75f8d2a83316ad836e467",
+      "git_blob_sha": "d33dc978fc2391c4a00c597a7d64afd65c6df92b"
+    },
+    {
+      "id": "ICON-0384",
+      "concept": "desk-fan",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0384-desk-fan.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1156163,
+      "sha256": "97b7e1942d9a1cc6a21fbdaaf21921c797458574e118a073419ad8ac8f9f053b",
+      "git_blob_sha": "312dba7e1707ab8ffbf94717b7db58b2fc76fa88"
+    },
+    {
+      "id": "ICON-0385",
+      "concept": "office-key",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0385-office-key.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 973913,
+      "sha256": "714c9f3bd54e3fed9981a73de5bfb62769e7dd602cd2f39e60174d0b3fe4f1bb",
+      "git_blob_sha": "d9529ef9ee2e1d7c16f11f6109915cb697b647b2"
+    },
+    {
+      "id": "ICON-0386",
+      "concept": "team-badge",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0386-team-badge.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1261547,
+      "sha256": "84d7d34b5057af5ae20d107c22ab6630781a39a2d43a415789f6a9590a673735",
+      "git_blob_sha": "131538e7032ca5eb9ebab262ac47599b80e5fdf6"
+    },
+    {
+      "id": "ICON-0387",
+      "concept": "time-sheet",
+      "category": "Work and productivity",
+      "subcategory": "office-and-collaboration",
+      "path": "icons/work-and-productivity/icon-0387-time-sheet.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1424295,
+      "sha256": "e358eb24da0348bad29a538a356648900ffc309a7262ff20fbdd1958f80e410f",
+      "git_blob_sha": "5620f688a430acd4462c03411c216aa625e0b1e1"
+    },
+    {
+      "id": "ICON-0388",
+      "concept": "desktop-tower",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0388-desktop-tower.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1283526,
+      "sha256": "94ce6e1188ee25ebdab27540d048a8c1184082fd3506693c47f98c7d1a7dc7a8",
+      "git_blob_sha": "1fd7f5ed95831ab0d396f3a175df66524df9434e"
+    },
+    {
+      "id": "ICON-0389",
+      "concept": "graphics-card",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0389-graphics-card.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1355714,
+      "sha256": "d682e508e588969db9fb525ab701f2e9ccaa254d80de42e563f55214b624a0fa",
+      "git_blob_sha": "18b98e0d2520fe202f7e666f4afa4b91f5248163"
+    },
+    {
+      "id": "ICON-0390",
+      "concept": "ram-stick",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0390-ram-stick.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1094577,
+      "sha256": "41f910c7d9ca16a86b9f5e65408976a86e225ecf6bcd34a82676251d71651f60",
+      "git_blob_sha": "d132ed49d5a60e6636f8d09fc8a0fb888983307b"
+    },
+    {
+      "id": "ICON-0391",
+      "concept": "motherboard",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0391-motherboard.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1682883,
+      "sha256": "b1ee034c7a99f53448b54b5e455e63c431aa184b4777e165e72b2173b481455d",
+      "git_blob_sha": "1abaad2f023d0eca26674636d125f2150eccaa55"
+    },
+    {
+      "id": "ICON-0392",
+      "concept": "cpu-fan",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0392-cpu-fan.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1327988,
+      "sha256": "f9c0296b5b3b1ebcff06cc538d66430914eadc3ba8b8bd6e8c70a4c3c3e219d4",
+      "git_blob_sha": "d5ac8e54f7ca4cfb5df9e40d6441054b8ae8f089"
+    },
+    {
+      "id": "ICON-0393",
+      "concept": "network-switch",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0393-network-switch.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1019586,
+      "sha256": "0d791dea158f4bdf9d37527a9587c8a59f6943c81a2be0926ea7a1d374598a99",
+      "git_blob_sha": "b13d001e853e8d024eda65b2b54361d217f6eb07"
+    },
+    {
+      "id": "ICON-0394",
+      "concept": "modem",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0394-modem.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 832151,
+      "sha256": "b579b3e93623d1d0674be7027e450168dafc994a9dfde60ebab0d1f565279e91",
+      "git_blob_sha": "248da5cbf265dfc433031f958bc915b76d9e5c36"
+    },
+    {
+      "id": "ICON-0395",
+      "concept": "nas-drive",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0395-nas-drive.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1455635,
+      "sha256": "a67928226eb8b353450b3f7478f5bfc930d509feff05a86fe3178ad397c8f74a",
+      "git_blob_sha": "45277f1ee77cad59a554f4c400cad43aaada9e27"
+    },
+    {
+      "id": "ICON-0396",
+      "concept": "power-bank",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0396-power-bank.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1228416,
+      "sha256": "9483ff10d949defc0849a37e39d06b1b1e47cce1caa8a93e3f00099106521708",
+      "git_blob_sha": "b1888ffad5a667d381f600105106cbd45b7c0471"
+    },
+    {
+      "id": "ICON-0397",
+      "concept": "wireless-charger",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0397-wireless-charger.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1101402,
+      "sha256": "20ef7cf10bbef7b7ac31d8f23dea81841f49a5868fc241c2823f3700eb02b696",
+      "git_blob_sha": "ccdae2b2838436824b51f16919a2239da632bb1a"
+    },
+    {
+      "id": "ICON-0398",
+      "concept": "charging-dock",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0398-charging-dock.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1243586,
+      "sha256": "74f3035d811469ab4947e1d6d3a284319e97ab0e2b16909b5386638d1f12027e",
+      "git_blob_sha": "deeccce1694484dc14da01e61d5ed37b4ae1d0c9"
+    },
+    {
+      "id": "ICON-0399",
+      "concept": "e-reader",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0399-e-reader.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1249721,
+      "sha256": "180d0ae24346401f437eb32d046f142f45186faf8048a7eddba361d02e0fdb73",
+      "git_blob_sha": "be9c8d1e663e92c49234c4d18fa84266bfeae048"
+    },
+    {
+      "id": "ICON-0400",
+      "concept": "smart-glasses",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0400-smart-glasses.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 771308,
+      "sha256": "3b1f1e4b271251e44827daa7312dda020fcf16d37fb11a1e8b47063f081c648c",
+      "git_blob_sha": "6c418bc79e8a25152419d81f25c80d24ee876d42"
     }
   ],
   "updated_date": "2026-10-17"
