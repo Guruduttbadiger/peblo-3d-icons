@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
   "completed_originals": 972,
-  "uploaded_originals": 455,
+  "uploaded_originals": 480,
   "status": "uploading",
   "icons": [
     {
@@ -8193,6 +8193,456 @@
       "bytes": 1111715,
       "sha256": "77207da723946afb7da7fb21dbacdcbdef5d129b88b0628cb213db12146bf49e",
       "git_blob_sha": "3601c5cfc9277c2d4d8dc613720db164303bedb0"
+    },
+    {
+      "id": "ICON-0451",
+      "concept": "coin-purse",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0451-coin-purse.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1182633,
+      "sha256": "6a9e4b2849b9aa900ed68eef1608144ac5d265d826851817b8b50a7f64326f69",
+      "git_blob_sha": "27382d71fc330c8c744236154f0b90aeeccbd150"
+    },
+    {
+      "id": "ICON-0452",
+      "concept": "donation-box",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0452-donation-box.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1137147,
+      "sha256": "c9652fc81b05777983a9ad241b4aa161607be8a0b32db07d70d683907f40fe23",
+      "git_blob_sha": "fc3fd95eb46c35454ca2756ac633d3a6da12e576"
+    },
+    {
+      "id": "ICON-0453",
+      "concept": "tip-jar",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0453-tip-jar.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1292854,
+      "sha256": "e186aba459ede751d164b7319d6fafef4b30250c853b945a1bfdb8d5387f6c02",
+      "git_blob_sha": "86268ef1732483bbf498ce29e1df79855b5a47b5"
+    },
+    {
+      "id": "ICON-0454",
+      "concept": "savings-jar",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0454-savings-jar.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1030552,
+      "sha256": "653d1fc407c520e8df82012fc01b934346b67b4277dc68c322f83d7d6a36e4d6",
+      "git_blob_sha": "afc27a8f471080c52cdad50752164d8b66b46240"
+    },
+    {
+      "id": "ICON-0455",
+      "concept": "stock-candlestick",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0455-stock-candlestick.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1028757,
+      "sha256": "3998acfed537f8ef2b52ae983e79681ab03e590bce4879d8427d83113e904e8d",
+      "git_blob_sha": "fbe101fdfd6a8b5caf87a141574d924860197bc6"
+    },
+    {
+      "id": "ICON-0456",
+      "concept": "pie-chart",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0456-pie-chart.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1125976,
+      "sha256": "9d3ce36d2fffbf644225d136acf219977786c159f296b1199929bfb93cb93556",
+      "git_blob_sha": "5889eb85d20b6e9365fa10c55674e356a08e050d"
+    },
+    {
+      "id": "ICON-0457",
+      "concept": "bond-certificate",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0457-bond-certificate.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 912532,
+      "sha256": "f1926aed1f53adf22e59cab9465e42b136ec9746cd59577a1ad77e5e08844c61",
+      "git_blob_sha": "874bfaacb3d0a2a9a38e099472fcbe6daf970381"
+    },
+    {
+      "id": "ICON-0458",
+      "concept": "loan-agreement",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0458-loan-agreement.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1302286,
+      "sha256": "f8d91df8a719540b1f25ca6d2b4bd9e408d6051d280f16b01125ee15830fb21b",
+      "git_blob_sha": "4c1faa7cf16161bed399931270279532492375e7"
+    },
+    {
+      "id": "ICON-0459",
+      "concept": "insurance-policy",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0459-insurance-policy.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1312031,
+      "sha256": "ffdfade3d84b1abfba7e34379292d0773812c6e7d44682b920982b9760a7c076",
+      "git_blob_sha": "f7cde44b4481130de026fa4c4212fd7631cb7a08"
+    },
+    {
+      "id": "ICON-0460",
+      "concept": "tax-folder",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0460-tax-folder.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1361853,
+      "sha256": "642b6392ffdac13ed278102064fc5b0571ed36ef4e8a2ad3c207f74cc632733f",
+      "git_blob_sha": "0e940ba64c57928132e520a7d25da7e21fe13ddf"
+    },
+    {
+      "id": "ICON-0461",
+      "concept": "mortgage-document",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0461-mortgage-document.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1106567,
+      "sha256": "719234019a68d4110c6d93d647a5a3fbf27d78d8ea5d64e6ce641bfe9f6631c3",
+      "git_blob_sha": "7a3dacd5b0504ddcc02302c650755c4924aa67df"
+    },
+    {
+      "id": "ICON-0462",
+      "concept": "pension-pot",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0462-pension-pot.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1283911,
+      "sha256": "2f578f6cdae140b48619ab2e675ae811fdc550c1b8e913432c424592627a3c30",
+      "git_blob_sha": "a7b150b4b38d125158b67c3f30be1f3af8159600"
+    },
+    {
+      "id": "ICON-0463",
+      "concept": "investment-portfolio",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0463-investment-portfolio.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1337998,
+      "sha256": "7323f8023022b84f53f2c64866cbcedda3f8d145988428d7ce1777bc532ae01f",
+      "git_blob_sha": "a16ed4f34c80808a352abd9cfc05223df8c54f85"
+    },
+    {
+      "id": "ICON-0464",
+      "concept": "dividend-coin",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0464-dividend-coin.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1155813,
+      "sha256": "3487b0f3086f163b95c8ac6d2a67c2bdb71e7b6c600ff413427d8c99b34c6e35",
+      "git_blob_sha": "996a626e969f66ff0b83fe1a34d1d5bf6fe5073c"
+    },
+    {
+      "id": "ICON-0465",
+      "concept": "crowdfunding-box",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0465-crowdfunding-box.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1003083,
+      "sha256": "4347569fbce4d7a332880baa0b1d1740631e6400c9e143e1e4ca5cbac5a63b81",
+      "git_blob_sha": "ee4a8336092e6953ddc471fd66840eb39c97aeea"
+    },
+    {
+      "id": "ICON-0466",
+      "concept": "balance-scale",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0466-balance-scale.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1083688,
+      "sha256": "5ca56116fa53af0c3935b7694adbfc3fd3d84f0b228a3560b3e916c5a69e5f1b",
+      "git_blob_sha": "ec370fb396acec42ed4af9d6e70640dd0d6e68fd"
+    },
+    {
+      "id": "ICON-0467",
+      "concept": "financial-calendar",
+      "category": "Money and finance",
+      "subcategory": "finance-tools",
+      "path": "icons/money-and-finance/icon-0467-financial-calendar.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1363516,
+      "sha256": "8a5ae092c1855d2d4113583059240a1efa93410382afdb552bf40056adcb2690",
+      "git_blob_sha": "d0effe2c02a3eb4c9e2b24d5995340eec1b94f67"
+    },
+    {
+      "id": "ICON-0468",
+      "concept": "birdbath",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0468-birdbath.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 873366,
+      "sha256": "93675603d305e99e880ae6dd3fb8bfce940cca87ec71a6dd98dcf0d18b6dd033",
+      "git_blob_sha": "6b6591c821a770c15d8ad5762ef0e1631ba6391e"
+    },
+    {
+      "id": "ICON-0469",
+      "concept": "wheelbarrow",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0469-wheelbarrow.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 959802,
+      "sha256": "984ca83f62ca16b8ae8a8e8d1cf928e3e60e7f6e367331a2372d7a4cf3d25023",
+      "git_blob_sha": "36fdf19a943f4efffdfe8e914c1c9de4027ce71a"
+    },
+    {
+      "id": "ICON-0470",
+      "concept": "garden-hose",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0470-garden-hose.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1182824,
+      "sha256": "375c257554af407b017116d88bf0240de4581674e2bbdf271f049fd0d90df4cd",
+      "git_blob_sha": "0a0d3d9753ba00d876905984ae39e41d581862e5"
+    },
+    {
+      "id": "ICON-0471",
+      "concept": "pinwheel",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0471-pinwheel.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 966432,
+      "sha256": "a3d45bcb32f6aabefbed2c6985ba8d795dfaf7042ba32a8862b9d94d80c0f959",
+      "git_blob_sha": "c7467e8c8bcf5c9e0a71214dda67ed4e922f586f"
+    },
+    {
+      "id": "ICON-0472",
+      "concept": "garden-trowel",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0472-garden-trowel.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 664318,
+      "sha256": "9ff2811c355a3d3ad53abdc783cefdc7e4b6ef6825f0f86643d9225d55647203",
+      "git_blob_sha": "397a9e2b15b9bf8e782b0af311080b6774569c97"
+    },
+    {
+      "id": "ICON-0473",
+      "concept": "watering-can",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0473-watering-can.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1130067,
+      "sha256": "c3ff60611658a4c49db1997b74620fc8985d17b01964af0f3d457afc3c33f998",
+      "git_blob_sha": "afa2b0fe210de4ffe069785fa99f581cfa52d128"
+    },
+    {
+      "id": "ICON-0474",
+      "concept": "birdhouse",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0474-birdhouse.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1082895,
+      "sha256": "e71fa296fd997a174659734779f0eb83dfa2599627f780cc19afa57f7b54db34",
+      "git_blob_sha": "8e174b20e9b96f4f9bd92f45584db22eb438ecfd"
+    },
+    {
+      "id": "ICON-0475",
+      "concept": "flower-bouquet",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "outdoors-and-celebration",
+      "path": "icons/leisure-nature-and-celebrations/icon-0475-flower-bouquet.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1130006,
+      "sha256": "a183b352a301b3d324290c7653bd11e529cea5997cac14c4b9a203470551fd42",
+      "git_blob_sha": "e3819afa602733cbde05e5b8fed1e2efd7689c62"
     }
   ],
   "updated_date": "2026-10-17"
