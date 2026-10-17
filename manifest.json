@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
   "completed_originals": 972,
-  "uploaded_originals": 255,
+  "uploaded_originals": 280,
   "status": "uploading",
   "icons": [
     {
@@ -4593,6 +4593,456 @@
       "bytes": 1076007,
       "sha256": "15d93c603075b5d18a2f2bec9ce38437d2cc3987d29e31dd1900c8ee21b0f05d",
       "git_blob_sha": "c8c67f371372d45db981fdf49f7b65e5e053cfc3"
+    },
+    {
+      "id": "ICON-0251",
+      "concept": "shampoo-bottle",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0251-shampoo-bottle.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 931211,
+      "sha256": "a522ebbda774fa29233424f988b2c8aa26fe25b8881660b718b98a43b4e00e4f",
+      "git_blob_sha": "d249b64b41a95ea08b657c62774209431dd331fa"
+    },
+    {
+      "id": "ICON-0252",
+      "concept": "hair-dryer",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0252-hair-dryer.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 921973,
+      "sha256": "27652f697cd21d6f22af421ea98fde26081c3f6e388903b8e11b24f6b7a4d4b3",
+      "git_blob_sha": "31e836e4c8ce9decfc1feb3e89953d902723cd1a"
+    },
+    {
+      "id": "ICON-0253",
+      "concept": "comb",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0253-comb.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 919115,
+      "sha256": "bf1afc2c300b48464ce300b85c1cb88abfdf56cb6ebfd81dc3ca71ddd74074f6",
+      "git_blob_sha": "0e60bf0d389deae62357ec4e4bf786ed3b88ebd1"
+    },
+    {
+      "id": "ICON-0254",
+      "concept": "hand-mirror",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0254-hand-mirror.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 813299,
+      "sha256": "065632b6f870a4fd6faa7cd77afd66a20804e5f1b232cce247cbac094dc704bf",
+      "git_blob_sha": "69f611760cb463d885ebd290e3cd4a73f4b93a8e"
+    },
+    {
+      "id": "ICON-0255",
+      "concept": "razor",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0255-razor.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 807754,
+      "sha256": "5901f4299d79a6cb3b300b83629dc6604ade8f9d1ec5ac7a171d0651d9f5654b",
+      "git_blob_sha": "ce9e9a140a6f1bfdf90411f597cc1f3c121df941"
+    },
+    {
+      "id": "ICON-0256",
+      "concept": "bath-towel",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0256-bath-towel.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1250090,
+      "sha256": "ec88a0969fe60926ce41e0eeebfcd2bcf06e2a7fa4c80c9f4d4353ec60257278",
+      "git_blob_sha": "2318b6d28928b6bfdf1c7cf05ed7f4f9c5f1525f"
+    },
+    {
+      "id": "ICON-0257",
+      "concept": "shower-head",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0257-shower-head.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1114472,
+      "sha256": "8b2ed15af7d719b962955498d6fd551c17bef80337d09c48e04fd8a99b67786c",
+      "git_blob_sha": "8f239cacbee5299c97a1e5408e45702af12bb8dd"
+    },
+    {
+      "id": "ICON-0258",
+      "concept": "toilet",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0258-toilet.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 955908,
+      "sha256": "e4086f529aa202c8545094b41fd80b5c1f2394e362209b6f2be8eeee4de7140a",
+      "git_blob_sha": "cea51a0fae12281f0d8deca3c532ef3d1bba7620"
+    },
+    {
+      "id": "ICON-0259",
+      "concept": "plunger",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0259-plunger.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 638266,
+      "sha256": "b204d7ec604c32e96af745bf5e95109a67b5f5c12b83e65722d065184f4c5961",
+      "git_blob_sha": "aeb5290950d155e0ef37dbd1d55fad69f8ed7862"
+    },
+    {
+      "id": "ICON-0260",
+      "concept": "broom",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0260-broom.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 713823,
+      "sha256": "1287d7fd4ba2f1d29f5f08f9657730424e810bc71f563bcd3a36b0ec59e52bcd",
+      "git_blob_sha": "8a5598acc8c9c8bb55c0d2379a39ba09c389041a"
+    },
+    {
+      "id": "ICON-0261",
+      "concept": "dustpan",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0261-dustpan.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1042269,
+      "sha256": "6b08fde99364d90a1150b7d928966ceec0fec2c4cb514df4d5731f4ca03faffe",
+      "git_blob_sha": "500901f002559c8642d8836a2554fb1c9c6a755f"
+    },
+    {
+      "id": "ICON-0262",
+      "concept": "mop",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0262-mop.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 734828,
+      "sha256": "508b3aa02fde0b5e33efd9d96aab61569dc3fb00067a1d965750fd58277f20b5",
+      "git_blob_sha": "0758c585b3d473fa007c6657624ef9cfbe04dcc5"
+    },
+    {
+      "id": "ICON-0263",
+      "concept": "sponge",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0263-sponge.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1684015,
+      "sha256": "c3a1a71b92488d7f9e2f3f8ebb6e4b5fa61d3b401b54a02fd3f4445dcdedbc6b",
+      "git_blob_sha": "e48b8b036c56050d058231aded7782d29f32be95"
+    },
+    {
+      "id": "ICON-0264",
+      "concept": "detergent-bottle",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0264-detergent-bottle.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1197707,
+      "sha256": "9a304ce8a0a049caf8eb4f7b21b634edf143b7933c0663837360301671bd2d6b",
+      "git_blob_sha": "0b57abc4f14a6b74281b4eac41daf8ac974381c3"
+    },
+    {
+      "id": "ICON-0265",
+      "concept": "spray-bottle",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0265-spray-bottle.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 846526,
+      "sha256": "8ba0b4f7f5b81dcc3c65edca22d5be62f14b2b58049ad11c987f1b4038f5bde0",
+      "git_blob_sha": "04bb609913c44bdc8c04a3574c95e8a234b00d3f"
+    },
+    {
+      "id": "ICON-0266",
+      "concept": "sewing-machine",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0266-sewing-machine.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1233318,
+      "sha256": "8b56d7b67bde71925cbc1e0aa9509d55ba313233d771e9965677d0e32f63ed40",
+      "git_blob_sha": "b5b9ba9ecce25d3778e0441e8ed565ae148cafb7"
+    },
+    {
+      "id": "ICON-0267",
+      "concept": "clothes-hanger",
+      "category": "Home and everyday life",
+      "subcategory": "home-care",
+      "path": "icons/home-and-everyday-life/icon-0267-clothes-hanger.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 826082,
+      "sha256": "3122411e7f98463d4addb78abfc9bda5a9964a2435e2a3e946344811afdde1f1",
+      "git_blob_sha": "ddb115fbf02028da634b193724bccce75a76ebea"
+    },
+    {
+      "id": "ICON-0268",
+      "concept": "play-button",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0268-play-button.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1151998,
+      "sha256": "2a7a6bb279cb13674078bbf74a23ed320063883e67c00149697f7e41daa029c4",
+      "git_blob_sha": "9e5b1c5daca943aa29b03f0d8813bb3fc220b117"
+    },
+    {
+      "id": "ICON-0269",
+      "concept": "pause-button",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0269-pause-button.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1384802,
+      "sha256": "95c688cba3f798c00d404f902e81fff67937127f005f6ecdb69fa68992fad6ae",
+      "git_blob_sha": "6e980292e4766c35322434d11a55419b2c8ebb19"
+    },
+    {
+      "id": "ICON-0270",
+      "concept": "stop-button",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0270-stop-button.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1354776,
+      "sha256": "2e05bbf2ed587d821a91afa4b0bbc683247b7fb39ae63728709df6e6fc60dfd0",
+      "git_blob_sha": "657e9ab7be2433836bcb3b00f30306e92c17a947"
+    },
+    {
+      "id": "ICON-0271",
+      "concept": "record-button",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0271-record-button.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1281251,
+      "sha256": "91e141d9e8b2140cbc23d3fefbfd13bd97bcfc8dc5b9c8219770957de3c882e9",
+      "git_blob_sha": "34f1c559dd619e30b04ac4dbfef742436d77ac7f"
+    },
+    {
+      "id": "ICON-0272",
+      "concept": "toggle-switch",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0272-toggle-switch.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1041418,
+      "sha256": "76949407135f290d82535f65473397cfa3e65ddd941bc041bce6e8922b420526",
+      "git_blob_sha": "924f0d094683ea544b9fbe4919548ea09fbe74ab"
+    },
+    {
+      "id": "ICON-0273",
+      "concept": "gear",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0273-gear.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1198725,
+      "sha256": "a98844900e6241e1ecaa15742e9ab9208ce7c084b34e93b665c5c21bea67cae2",
+      "git_blob_sha": "7eeff3783c29326e320afcb3cb39977eac98bf94"
+    },
+    {
+      "id": "ICON-0274",
+      "concept": "notification-bell",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0274-notification-bell.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 893405,
+      "sha256": "f9ad6bd72781df57a87fed8422d5b72b613a8cdc3b5defa6e2e747c7bfb1f862",
+      "git_blob_sha": "445f539ee59bc7794a1bc177f71526b7881d4389"
+    },
+    {
+      "id": "ICON-0275",
+      "concept": "fingerprint",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0275-fingerprint.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1346912,
+      "sha256": "beec6c33591e0d465bac8535f31eac61113efbb1a9c0cafda25ab3a68f9d8ed8",
+      "git_blob_sha": "7a89d7323b91a7635522be609d7759012ffaca6c"
     }
   ],
   "updated_date": "2026-10-17"
