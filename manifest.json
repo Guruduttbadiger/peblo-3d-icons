@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
   "completed_originals": 972,
-  "uploaded_originals": 280,
+  "uploaded_originals": 305,
   "status": "uploading",
   "icons": [
     {
@@ -5043,6 +5043,456 @@
       "bytes": 1346912,
       "sha256": "beec6c33591e0d465bac8535f31eac61113efbb1a9c0cafda25ab3a68f9d8ed8",
       "git_blob_sha": "7a89d7323b91a7635522be609d7759012ffaca6c"
+    },
+    {
+      "id": "ICON-0276",
+      "concept": "cursor-arrow",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0276-cursor-arrow.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1003501,
+      "sha256": "68fffbeea2491a5b4918973672b0de67e3ab144b9debbc34df4e2af4765e8e79",
+      "git_blob_sha": "6c6c739794b9b4e7965ad3658ce6c73a5217c5ae"
+    },
+    {
+      "id": "ICON-0277",
+      "concept": "cursor-hand",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0277-cursor-hand.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1035629,
+      "sha256": "e8e57ca454fd40e9f2f993bbe36f3944e968df74bf29862b3a76eb19464a7f02",
+      "git_blob_sha": "3f99e6a34fa8d0dbf34bf77c8be20e20db7f39a0"
+    },
+    {
+      "id": "ICON-0278",
+      "concept": "crosshair",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0278-crosshair.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 785241,
+      "sha256": "02e53086bdab16a456937289044d712716330545826fc42c40fd724d812e172b",
+      "git_blob_sha": "ecff83faa95ba96845c66367278b86a42511f751"
+    },
+    {
+      "id": "ICON-0279",
+      "concept": "filter-funnel",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0279-filter-funnel.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 948816,
+      "sha256": "ab2d105abfb60088fbab335e59173f39c31ba115a98706cceb2e05d84898e784",
+      "git_blob_sha": "1216bbdcedf2ee5ad184cbb913a2f567d868f8fe"
+    },
+    {
+      "id": "ICON-0280",
+      "concept": "sliders",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0280-sliders.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 817862,
+      "sha256": "1ca7eac3fff47e550aaac84bc58e5c5c2e603213eb76783b13c0d461c9469244",
+      "git_blob_sha": "83cadf87ecea0c580e4a0f2d9d1b058c81c22d11"
+    },
+    {
+      "id": "ICON-0281",
+      "concept": "three-dots-menu",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0281-three-dots-menu.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 978517,
+      "sha256": "26f7c11c44c37f3a0e7d90f4b117094bf53622610a367bcbb57fb19048e68640",
+      "git_blob_sha": "4a1922f15593762c20a192f3162465825de00087"
+    },
+    {
+      "id": "ICON-0282",
+      "concept": "hamburger-menu",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0282-hamburger-menu.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1367186,
+      "sha256": "21748fb5579d8995eae1f4b505400f1d6116bebf4425d753812439021cef7216",
+      "git_blob_sha": "e76eac13062ab0c3fa6afb9ac473a343eccfa809"
+    },
+    {
+      "id": "ICON-0283",
+      "concept": "checkmark",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0283-checkmark.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 943537,
+      "sha256": "0dbf0edfe1c256ef7ce08ad878908a43e1568223abd67a2f4762e52954d10738",
+      "git_blob_sha": "c55e32300e0d8e0b1a2162f1e466375ed2e95317"
+    },
+    {
+      "id": "ICON-0284",
+      "concept": "error-cross",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0284-error-cross.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1196516,
+      "sha256": "08d2cfc34760b465daf386fcbbe7f122bb2adf517a46a5caf07409e1799634da",
+      "git_blob_sha": "0a71a23c4bee7d9fd8a71cff89cc2151b34ac86e"
+    },
+    {
+      "id": "ICON-0285",
+      "concept": "information-symbol",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0285-information-symbol.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1528549,
+      "sha256": "d8baf4f9ec2cdebca0b84c25987b3969c63269a2c95318d9b8797021e6edd80d",
+      "git_blob_sha": "18f1e95f4a690025ad7da20e276745ff1f725e46"
+    },
+    {
+      "id": "ICON-0286",
+      "concept": "question-mark",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0286-question-mark.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 797102,
+      "sha256": "c1c000033d570a81e603910b5de946540943fa52c7956571f60410b7cb278b0a",
+      "git_blob_sha": "2ca87c86efce036a8460d28eeafe68b1e335f60a"
+    },
+    {
+      "id": "ICON-0287",
+      "concept": "link-chain",
+      "category": "Interface actions and states",
+      "subcategory": "interface-controls",
+      "path": "icons/interface-actions-and-states/icon-0287-link-chain.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 985670,
+      "sha256": "b3027f332a020d1c558e2eedeb6d67df533484820d8d5fd69029c70039e62805",
+      "git_blob_sha": "fc2a485730c954ba6f362cee40c3ec05ee2b4285"
+    },
+    {
+      "id": "ICON-0288",
+      "concept": "ethernet-cable",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0288-ethernet-cable.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1059770,
+      "sha256": "2a63ebb34dbe6b2abe39a1208f7a0836341939c588603fc3f410dbcbc15523f0",
+      "git_blob_sha": "b571128eef57af1c1187afab1592abfee5be09cb"
+    },
+    {
+      "id": "ICON-0289",
+      "concept": "hdmi-cable",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0289-hdmi-cable.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 831395,
+      "sha256": "0f057772483922e330623b1e5271633021e0f657ecd3c01c071f8a0955fbaaf9",
+      "git_blob_sha": "839a0c6440c617395e828bedff5e260a48e238cd"
+    },
+    {
+      "id": "ICON-0290",
+      "concept": "computer-chip",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0290-computer-chip.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1254023,
+      "sha256": "14a34b2cf40ad0279a749d7d4fae5679c31c28b9e8c4c8889e558e53f91f03e5",
+      "git_blob_sha": "97d1523a8466b29ad3c1908d3aedbde572a585a2"
+    },
+    {
+      "id": "ICON-0291",
+      "concept": "hard-drive",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0291-hard-drive.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1231405,
+      "sha256": "122e1d3161bcf5bcc5f18ab09828fdf3b7fea49dbea7e59aaf205aa1f69f90d7",
+      "git_blob_sha": "855d8d64acb8c16053518b6954fdb35b0f9a419b"
+    },
+    {
+      "id": "ICON-0292",
+      "concept": "optical-disc",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0292-optical-disc.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1133571,
+      "sha256": "c5db0f7810afa49b0ef0eb30ea23aa67aba09c2ae839869c98bc696c22cfc869",
+      "git_blob_sha": "3cb92cfdbba36c1c9b6c04af08f449940fd6e678"
+    },
+    {
+      "id": "ICON-0293",
+      "concept": "floppy-disk",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0293-floppy-disk.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1365638,
+      "sha256": "1345fd6db9d09e88f905030df9da217409e842b133d846471120b67df1599732",
+      "git_blob_sha": "351c51419493b55d4879e019aedb1406c3533bc1"
+    },
+    {
+      "id": "ICON-0294",
+      "concept": "printer",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0294-printer.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1423731,
+      "sha256": "987decf3afd81c1f48825ed8d65852a6e50008bc889d4d47951a685456d2983b",
+      "git_blob_sha": "5ca0e39c0eb24a8d88ccc9754075b7e82ceb22f9"
+    },
+    {
+      "id": "ICON-0295",
+      "concept": "projector",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0295-projector.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1097321,
+      "sha256": "c311ea3c66da7b455b344f5349408716bace55d6914d5712e4527b46219b85d4",
+      "git_blob_sha": "0ac6e8e12acf29f3698546c17d058c8a762c3da7"
+    },
+    {
+      "id": "ICON-0296",
+      "concept": "document-scanner",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0296-document-scanner.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1263428,
+      "sha256": "13474149683f95edcea749ce2e4a0d71187934fa974be6b4324bf638c9649b2a",
+      "git_blob_sha": "c5288a83deba4598d2b0b91df9ea87a93f26fb40"
+    },
+    {
+      "id": "ICON-0297",
+      "concept": "walkie-talkie",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0297-walkie-talkie.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1015042,
+      "sha256": "89f197736ebe593dfea451bb6a689e6da6bff2ca24b5b3b869db5687fda000ec",
+      "git_blob_sha": "d783e98e3cef1a89ec98b0ee436df6dbae7cd095"
+    },
+    {
+      "id": "ICON-0298",
+      "concept": "radio",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0298-radio.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1441583,
+      "sha256": "513b869b431ad670d0de1193a8d6f53d72e234ee7009f8b5fee3919befda7a9a",
+      "git_blob_sha": "20df42db08150dda7ca3afc4721ee6061719b0e5"
+    },
+    {
+      "id": "ICON-0299",
+      "concept": "television",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0299-television.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1359026,
+      "sha256": "f58fbfcd5f5f377fa0b33f74704c510272bc598a79d0f4b52dd280f7ffbe13bf",
+      "git_blob_sha": "5ee1207c6ac083f221ee06d0e5c5449b2fd4ef7b"
+    },
+    {
+      "id": "ICON-0300",
+      "concept": "remote-control",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0300-remote-control.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1046763,
+      "sha256": "28d6af0f111fbc0701ac349e7dcbf6ac36a0b79482afc0c123e6fa29b91bf040",
+      "git_blob_sha": "a875e63295db22706180db08ed4729a218ca8c0f"
     }
   ],
   "updated_date": "2026-10-17"
