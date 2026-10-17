@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
   "completed_originals": 972,
-  "uploaded_originals": 405,
+  "uploaded_originals": 430,
   "status": "uploading",
   "icons": [
     {
@@ -7293,6 +7293,456 @@
       "bytes": 771308,
       "sha256": "3b1f1e4b271251e44827daa7312dda020fcf16d37fb11a1e8b47063f081c648c",
       "git_blob_sha": "6c418bc79e8a25152419d81f25c80d24ee876d42"
+    },
+    {
+      "id": "ICON-0401",
+      "concept": "action-camera",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0401-action-camera.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1269193,
+      "sha256": "96b75e4d327372f67725c8a2d0c71e864c1463928f8dfe62763f4b808dcf0f32",
+      "git_blob_sha": "5a2e12d455b6a82e271e87c33d220337381fa544"
+    },
+    {
+      "id": "ICON-0402",
+      "concept": "security-camera",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0402-security-camera.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1024856,
+      "sha256": "7f29e7de69a363a6f0eb72985dd731aaaffa70031a2c69773d94933956e27603",
+      "git_blob_sha": "3ce6214d0b583094afb7682b996a45d8f1111198"
+    },
+    {
+      "id": "ICON-0403",
+      "concept": "video-camera",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0403-video-camera.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1111703,
+      "sha256": "c4cb11e5d98a037821f213bbc7e8ecf5492dfd787558f054501d095412009417",
+      "git_blob_sha": "e867246f080ddee095ffdd9d339bcf8ff1bb1eaa"
+    },
+    {
+      "id": "ICON-0404",
+      "concept": "digital-camera",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0404-digital-camera.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1255582,
+      "sha256": "4db07d012b3f69c06a7197b7f684348ed94d7f02a32a556a79effd2cb80d5011",
+      "git_blob_sha": "7eb00885c6e00f72b2864ec882bf70e0f6977df9"
+    },
+    {
+      "id": "ICON-0405",
+      "concept": "turntable",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0405-turntable.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1235308,
+      "sha256": "ccdf07d72dba0efeacaca7871f6d5e79d5d866fb3db9ff8cecb8aea319dea5c0",
+      "git_blob_sha": "02bb2a4eb3bf48ebd8cf70975e8bcf1d12e8d02e"
+    },
+    {
+      "id": "ICON-0406",
+      "concept": "cassette-tape",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0406-cassette-tape.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1408659,
+      "sha256": "1947cf559ce47703c15101341447085cafd328d4e27be6b9b32805c291d69741",
+      "git_blob_sha": "72e495e889ca6c3612251bb5c57f5c728ddb1d31"
+    },
+    {
+      "id": "ICON-0407",
+      "concept": "pager",
+      "category": "Technology and communication",
+      "subcategory": "devices-and-hardware",
+      "path": "icons/technology-and-communication/icon-0407-pager.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1227784,
+      "sha256": "9c968aded2e76449fa1625f8de1bfdf16560865ec0dd3d367bb1f90deb9d64d5",
+      "git_blob_sha": "9b2830e9d977b349316e53a1f3f3f8914e9c0cfd"
+    },
+    {
+      "id": "ICON-0408",
+      "concept": "download-arrow",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0408-download-arrow.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1138538,
+      "sha256": "e91b957c5f3989ee70c8274c0e8fefa60faefa2a424e06e1fbc8048ef5ee5602",
+      "git_blob_sha": "3f19d32eb3d15a1f4b6756bd5a767f7e96007e3b"
+    },
+    {
+      "id": "ICON-0409",
+      "concept": "upload-arrow",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0409-upload-arrow.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1059113,
+      "sha256": "9bdd9fab42ebe6b1a6f75ef89aef5dbe437cd7a4fb813ddd3ca256e5ec5c6bce",
+      "git_blob_sha": "9e468d794863ea42ff658d379b00a4fcdc3a3157"
+    },
+    {
+      "id": "ICON-0410",
+      "concept": "share-nodes",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0410-share-nodes.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 763508,
+      "sha256": "7d053e7d2d332efe1407899ddb7a299fbc9ff33ee4001ae192655ed9dab92831",
+      "git_blob_sha": "c60376966b5f3bac9bfd819f5902d63dbe1ea5e0"
+    },
+    {
+      "id": "ICON-0411",
+      "concept": "refresh-arrows",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0411-refresh-arrows.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 934292,
+      "sha256": "67713577c872437eb86159a7f391e7bca6df1f853097257b62d9b9a15813fb8f",
+      "git_blob_sha": "acda5164f7e5e409b60b37a09385ec1cf18f07d7"
+    },
+    {
+      "id": "ICON-0412",
+      "concept": "undo-arrow",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0412-undo-arrow.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 941760,
+      "sha256": "97610727a8005e4e039bd66da50bcf2005c55aebeb91bc18d5170d839bc1ec9c",
+      "git_blob_sha": "2972bce0afc5479210f05a1e081507ebe28b5679"
+    },
+    {
+      "id": "ICON-0413",
+      "concept": "redo-arrow",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0413-redo-arrow.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 889903,
+      "sha256": "721943f451fe54221bdbed61b5a6ad46a9fda9fd830079959f0154e2616e1d16",
+      "git_blob_sha": "417381086ca74bb1b26d35ed8b215bb5b82bc938"
+    },
+    {
+      "id": "ICON-0414",
+      "concept": "bookmark-ribbon",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0414-bookmark-ribbon.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1048333,
+      "sha256": "f506a7644b74c4687b762b1f1e7c55df1e5efc9d6e9d45a325839721bebcd798",
+      "git_blob_sha": "618c879b92a733f5f03382946228ad671dd73e05"
+    },
+    {
+      "id": "ICON-0415",
+      "concept": "location-pin",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0415-location-pin.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 935825,
+      "sha256": "6daf14542a7f0c92aeee7556223db6f566234177e88e1833a9721349c28e5668",
+      "git_blob_sha": "915c8d52f6a45e7792635d69984e47f0125022d8"
+    },
+    {
+      "id": "ICON-0416",
+      "concept": "visibility-eye",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0416-visibility-eye.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1045143,
+      "sha256": "7432a342dde96199f31616e4e3fc630ab65bc44d3f3c6d2295a603ec47c0609c",
+      "git_blob_sha": "c5f89a45a22e711f87cd9a733d7c30678ad43a86"
+    },
+    {
+      "id": "ICON-0417",
+      "concept": "hidden-eye",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0417-hidden-eye.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1065667,
+      "sha256": "fcdca2396e190425614922d319605e16de32bf8249f206400d3702d685f91967",
+      "git_blob_sha": "eb38c7e8802fc183728bdc754a49a47c2f771b5b"
+    },
+    {
+      "id": "ICON-0418",
+      "concept": "unlocked-padlock",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0418-unlocked-padlock.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1066128,
+      "sha256": "ba1431da9614ab3be362f14ce71a4e6755406b528cf156023e02dd5e884832d1",
+      "git_blob_sha": "8552b3b2b847733f92b06d3d1509db0cc8c963e9"
+    },
+    {
+      "id": "ICON-0419",
+      "concept": "volume-high",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0419-volume-high.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1030101,
+      "sha256": "5ef7ae90f6731f7a5afb0e9eaf81db6fcbd6b394149147e48f84b4093e9a8b96",
+      "git_blob_sha": "84de327aab2494a8ea0296bc8f53ee3b9f1ae4fb"
+    },
+    {
+      "id": "ICON-0420",
+      "concept": "volume-muted",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0420-volume-muted.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1158391,
+      "sha256": "3656412efb93df703dba907b9763bd65e5fc2b218b9a407c495d262f74787ef2",
+      "git_blob_sha": "cc09bc1d760730a2fae3e211d7f2a631f8418de9"
+    },
+    {
+      "id": "ICON-0421",
+      "concept": "fullscreen-corners",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0421-fullscreen-corners.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 989740,
+      "sha256": "c5b7d38a929ef4e26ccb1a59f0addd5ce3971177a8a2b3fa2a12fbc425027a2e",
+      "git_blob_sha": "aa89479948cf319ca56d6a289fb81b236951202b"
+    },
+    {
+      "id": "ICON-0422",
+      "concept": "minimize-window",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0422-minimize-window.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1245741,
+      "sha256": "0db3f3503a912187d554dd2eec8a7c240a7467420f5b332f13e772316d368fad",
+      "git_blob_sha": "76341c3f741f83479df756a2fef9515f3c320c81"
+    },
+    {
+      "id": "ICON-0423",
+      "concept": "sort-arrows",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0423-sort-arrows.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1068314,
+      "sha256": "ff812f16aa6160de03fe552e824f5f017ddf417cc9942a0b31b665414ec1031a",
+      "git_blob_sha": "25532c0b643ba132f44f17b88c46b0ace388ef35"
+    },
+    {
+      "id": "ICON-0424",
+      "concept": "grid-layout",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0424-grid-layout.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1279181,
+      "sha256": "451343cd0b4fea23a8fbd16b9b85f442c7696a5876bf44325939fb49a61b8841",
+      "git_blob_sha": "efa77faa86d5142a87434c4e292f137674742b13"
+    },
+    {
+      "id": "ICON-0425",
+      "concept": "list-layout",
+      "category": "Interface actions and states",
+      "subcategory": "navigation-and-status",
+      "path": "icons/interface-actions-and-states/icon-0425-list-layout.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1309966,
+      "sha256": "dd5dc36750d25728d53242ceeddf304ed0187734c64768230b081ba603fde333",
+      "git_blob_sha": "d5939111c5d880ab35765e7c494ce5b8f65c463f"
     }
   ],
   "updated_date": "2026-10-17"
