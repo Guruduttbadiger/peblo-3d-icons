@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
   "completed_originals": 972,
-  "uploaded_originals": 305,
+  "uploaded_originals": 330,
   "status": "uploading",
   "icons": [
     {
@@ -5493,6 +5493,456 @@
       "bytes": 1046763,
       "sha256": "28d6af0f111fbc0701ac349e7dcbf6ac36a0b79482afc0c123e6fa29b91bf040",
       "git_blob_sha": "a875e63295db22706180db08ed4729a218ca8c0f"
+    },
+    {
+      "id": "ICON-0301",
+      "concept": "smart-doorbell",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0301-smart-doorbell.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1101875,
+      "sha256": "0222e1d83a8c7b06019b6b6d0337328ffe331adf35204394b2b1dfa6f7afd5e5",
+      "git_blob_sha": "b438152728db08cbec7830540937433042e9c6cb"
+    },
+    {
+      "id": "ICON-0302",
+      "concept": "wifi-symbol",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0302-wifi-symbol.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 921888,
+      "sha256": "a7c3ef0479f62a05b3431dbccc91d9b40b4c2a8c7b5c2b0496abb4895f2b5048",
+      "git_blob_sha": "1416eeb6cad86d69a767fc7332cdb635d1ee4cd1"
+    },
+    {
+      "id": "ICON-0303",
+      "concept": "bluetooth-symbol",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0303-bluetooth-symbol.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 961063,
+      "sha256": "ffec2c44aaf2164054722892e53f706bb405a153419a01ff4744d9c0dd21e0a3",
+      "git_blob_sha": "f1b724a24fc1575696d344000b226e0f23bba3e5"
+    },
+    {
+      "id": "ICON-0304",
+      "concept": "sim-card",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0304-sim-card.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1207018,
+      "sha256": "18428dbb3091cccb0634b1ffb415b2769f21c2dcc3c9a46b5cf8f02f6b68a0e4",
+      "git_blob_sha": "fec10e2870b13f476c57a7ba6205d40c06db176a"
+    },
+    {
+      "id": "ICON-0305",
+      "concept": "megaphone",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0305-megaphone.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 939381,
+      "sha256": "6d732ca0e0ad8fe1714b8958697973a287c1f3db5e33bdc58e770f99e5598e15",
+      "git_blob_sha": "0ac3f2a14d246f869006b7101338f4aa516c7ef7"
+    },
+    {
+      "id": "ICON-0306",
+      "concept": "antenna",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0306-antenna.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 960322,
+      "sha256": "1a34b7a42aa9536a1accb36f512a8a84cfc41d4b3057d06ab4e6efe979bf9bd6",
+      "git_blob_sha": "586065d10a0d2166e85a69897c13b252258b7d89"
+    },
+    {
+      "id": "ICON-0307",
+      "concept": "solar-panel",
+      "category": "Technology and communication",
+      "subcategory": "connectivity",
+      "path": "icons/technology-and-communication/icon-0307-solar-panel.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1117646,
+      "sha256": "cdb7d77e5b922ed157cbd4d92cddf47e3237321471611cc87f1f8f7237e29acc",
+      "git_blob_sha": "7440264f3450d4a1eabc2ebae36cfb608419125c"
+    },
+    {
+      "id": "ICON-0308",
+      "concept": "lungs",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0308-lungs.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1209449,
+      "sha256": "4903839688c14075dd74f699a12df175f5789277f9b3f9f44c47ceb16e2aaf16",
+      "git_blob_sha": "11b6249f4fbae5ca70e452245bec1686525bc2e7"
+    },
+    {
+      "id": "ICON-0309",
+      "concept": "anatomical-heart",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0309-anatomical-heart.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1160951,
+      "sha256": "9950fe3dbe5b5510042acefe4cb43ee775dfc0b861df5d16a7868f1976115f62",
+      "git_blob_sha": "a3f669a4af64832184b19ecb86c851e3882df5ec"
+    },
+    {
+      "id": "ICON-0310",
+      "concept": "brain",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0310-brain.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1173033,
+      "sha256": "5ef4be915600accf77399c1bad1f311816649af66f4121082f6642d2e92e7872",
+      "git_blob_sha": "689e901a032c3a766173451e7d232c1773ece7dd"
+    },
+    {
+      "id": "ICON-0311",
+      "concept": "tooth",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0311-tooth.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1054095,
+      "sha256": "dc8178e47a01241dae57e3fed3da3bfad5def80c44d424fe59798965f51ba398",
+      "git_blob_sha": "df0fd2f87b83974c81c151a81aa4109233149357"
+    },
+    {
+      "id": "ICON-0312",
+      "concept": "bone",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0312-bone.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 701441,
+      "sha256": "3d8aabbddb9d8f789c1428d0532b0dacf78253f5d140363b2eded924bdb4a414",
+      "git_blob_sha": "3a8fb59ebcd53f45e0f7291a9eb026fb4249a777"
+    },
+    {
+      "id": "ICON-0313",
+      "concept": "kidney",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0313-kidney.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1031162,
+      "sha256": "d6d46207c1a3ba00686fa618952c7dbd9f77902390bad83545af379b1437a3df",
+      "git_blob_sha": "4d5853d660180cff3485de8a6be1b807a04bd9e7"
+    },
+    {
+      "id": "ICON-0314",
+      "concept": "ear",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0314-ear.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 900421,
+      "sha256": "fba6a307f631d5560fff35940ed458649967cd745331781118248ed6897d3928",
+      "git_blob_sha": "a6b1d162fb4b6a54deb63f7d7ef0416b0aa6c96e"
+    },
+    {
+      "id": "ICON-0315",
+      "concept": "eye",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0315-eye.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 959851,
+      "sha256": "71fbb69ce4bd7d4b3000a59ba438047af85e4b99b5b551f415833292cda1e384",
+      "git_blob_sha": "0c2f97fcb3ba606442c11e5a7291d735bee5ebc1"
+    },
+    {
+      "id": "ICON-0316",
+      "concept": "crutches",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0316-crutches.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 598372,
+      "sha256": "e85d4096803ca0f86dfa205b0c6153d03150d5e2dd385d484595728027f5bbac",
+      "git_blob_sha": "9ed26fd4722deb75b3190a3798a4b3a7505640e1"
+    },
+    {
+      "id": "ICON-0317",
+      "concept": "walking-stick",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0317-walking-stick.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 372326,
+      "sha256": "7d8ad0560763774f0a2734dfba254245cb8b412798aba950f3d0359e28fcaed0",
+      "git_blob_sha": "1c3be9d5f5bc29366d275b35f09bf90c32467b6f"
+    },
+    {
+      "id": "ICON-0318",
+      "concept": "hearing-aid",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0318-hearing-aid.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 874630,
+      "sha256": "44b3512959d9f3738406dc61b1e873235dd833f31fd3c7375636be4aca7c630e",
+      "git_blob_sha": "ce09eb97bd08e934d68c83308dcff45252bd6a74"
+    },
+    {
+      "id": "ICON-0319",
+      "concept": "oxygen-cylinder",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0319-oxygen-cylinder.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 802489,
+      "sha256": "4de4a619dfb2f6d1d3bdd91950905ce7083f063ba04744035e94a1ad3c24b9e9",
+      "git_blob_sha": "767e0f6a2dd540f9b6953ff460e571ff8402af41"
+    },
+    {
+      "id": "ICON-0320",
+      "concept": "inhaler",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0320-inhaler.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 902189,
+      "sha256": "473ac620577534fe986a95671a3ee710f58911a4bd1071f38144a6b935fedd54",
+      "git_blob_sha": "c421d5536ec538202749e27ca0344cce4afea22b"
+    },
+    {
+      "id": "ICON-0321",
+      "concept": "eye-drops",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0321-eye-drops.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 946881,
+      "sha256": "5d96d20a7795ed32d0194590c27c7a2b51d773167b9f6935f22acda9ad0bcfb5",
+      "git_blob_sha": "598abcf206ec48c2b5e6c25e4ad794ba692fb64b"
+    },
+    {
+      "id": "ICON-0322",
+      "concept": "nasal-spray",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0322-nasal-spray.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 667313,
+      "sha256": "8e3b9d518096f00450bac484b4c1a974c657f8af9d95159b2903dcf216f8e1cd",
+      "git_blob_sha": "fa3d062dbb450d5a9ab26ecd46cd39514b1ee8cc"
+    },
+    {
+      "id": "ICON-0323",
+      "concept": "hot-water-bag",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0323-hot-water-bag.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1057598,
+      "sha256": "6dca5b8a1490aec7a73a345a40fda305328d5f4aa002a273a6df82196f4bd04d",
+      "git_blob_sha": "47d4c86aed52c70678583b87f508fa8b3441d020"
+    },
+    {
+      "id": "ICON-0324",
+      "concept": "ice-pack",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0324-ice-pack.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1202011,
+      "sha256": "2c6cab4af27f8e2658b5e6589eee8bc1582be47d0504e681c4bf4a7342fa4f31",
+      "git_blob_sha": "df4a094f211d43b1c29117aadd87717db775dfb6"
+    },
+    {
+      "id": "ICON-0325",
+      "concept": "face-mask",
+      "category": "Health and wellbeing",
+      "subcategory": "anatomy-and-care",
+      "path": "icons/health-and-wellbeing/icon-0325-face-mask.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1061086,
+      "sha256": "d0cab3b911c0aa349a0a62dd1ce7da24d8f52c317026e27afdb099642ec3733c",
+      "git_blob_sha": "7dba50c0ddb8e24fd3c88eb9704432df0c50b2dd"
     }
   ],
   "updated_date": "2026-10-17"
