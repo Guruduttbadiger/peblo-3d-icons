@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
   "completed_originals": 972,
-  "uploaded_originals": 205,
+  "uploaded_originals": 230,
   "status": "uploading",
   "icons": [
     {
@@ -3693,6 +3693,456 @@
       "bytes": 1022267,
       "sha256": "385bac9d98957277ed79aad5cc3000fe3fe5dd55b2670822acf112515ca01062",
       "git_blob_sha": "bafd5911a9bc144a645a976527f4c7d8c60d7f40"
+    },
+    {
+      "id": "ICON-0201",
+      "concept": "feather",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "nature-celebrations",
+      "path": "icons/leisure-nature-and-celebrations/icon-0201-feather.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 822990,
+      "sha256": "1ee48b67a26c9eee5fda5bef03d1a6885aeb9c217a875a58133731479ac7dd9e",
+      "git_blob_sha": "261f80b29f15b3af888da6a67c5c5d35668c5bac"
+    },
+    {
+      "id": "ICON-0202",
+      "concept": "butterfly",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "nature-celebrations",
+      "path": "icons/leisure-nature-and-celebrations/icon-0202-butterfly.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1223434,
+      "sha256": "389e1fd8bde171bdc21f3d9addaba313220a42c2e18964489c20622572d7e5bf",
+      "git_blob_sha": "afb4027ce46e7ff5b0f11f19861c0ba984a28d47"
+    },
+    {
+      "id": "ICON-0203",
+      "concept": "honeybee",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "nature-celebrations",
+      "path": "icons/leisure-nature-and-celebrations/icon-0203-honeybee.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1082381,
+      "sha256": "152381f0bfdf4c64748257f2fb8259fb6bd747968f1f9598295209df1d3fccd6",
+      "git_blob_sha": "5a17403f9de61dc7a9c1e2ce9a5096df73974115"
+    },
+    {
+      "id": "ICON-0204",
+      "concept": "ladybird",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "nature-celebrations",
+      "path": "icons/leisure-nature-and-celebrations/icon-0204-ladybird.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1136099,
+      "sha256": "dfeffddab1804230c2256afaccd2cf7483cf085f616fad839644ba44a02c4a30",
+      "git_blob_sha": "c9957b75b7fd4b8a5c701f1ab4459aed8a34f127"
+    },
+    {
+      "id": "ICON-0205",
+      "concept": "snail",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "nature-celebrations",
+      "path": "icons/leisure-nature-and-celebrations/icon-0205-snail.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1229396,
+      "sha256": "02719f1448d8d66b0f1ddbb26e7edd9417b89b7893791270c947fd4a5e77e6e1",
+      "git_blob_sha": "cd4b39d8fcaa83f523047dae8d6493bc86507bbb"
+    },
+    {
+      "id": "ICON-0206",
+      "concept": "fish",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "nature-celebrations",
+      "path": "icons/leisure-nature-and-celebrations/icon-0206-fish.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1131847,
+      "sha256": "f7e447b8c6eedc7c4fe258b8756746b23e1d407d12a2951c8e8fe2315225b837",
+      "git_blob_sha": "eded3b0b1445a3018e2d09a8507c1e5fc5cb0981"
+    },
+    {
+      "id": "ICON-0207",
+      "concept": "oak-leaf",
+      "category": "Leisure, nature and celebrations",
+      "subcategory": "nature-celebrations",
+      "path": "icons/leisure-nature-and-celebrations/icon-0207-oak-leaf.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 998401,
+      "sha256": "b70fb8ca6c1ba48d333106f370c436ec6bb0d9296ad2bea658322e3050cf32b4",
+      "git_blob_sha": "8e84c151318c31b44533e9ade77dfaeccd35f752"
+    },
+    {
+      "id": "ICON-0208",
+      "concept": "bicycle",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0208-bicycle.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1241371,
+      "sha256": "449f323c56a6f1bf70408e446ab1009f5771b4bfa60e21be812e655a47957d41",
+      "git_blob_sha": "804687ae72e4b7e152b484d0d58b076546ee6f22"
+    },
+    {
+      "id": "ICON-0209",
+      "concept": "motorcycle",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0209-motorcycle.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1304788,
+      "sha256": "20dc5cbaa391788c056cdf914e54ded291027d97dd11cd9fb1e4844c28a45e96",
+      "git_blob_sha": "716f962e60b481830f4fecf5dd89d76e3b3ebe08"
+    },
+    {
+      "id": "ICON-0210",
+      "concept": "scooter",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0210-scooter.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1149456,
+      "sha256": "725e0fc7037cd8134d14fd142ac252bb2cbeb783ac863bc984b484eb4daeb0ee",
+      "git_blob_sha": "e8fd4772fddb5b628a11d6606c53a2136a7989d7"
+    },
+    {
+      "id": "ICON-0211",
+      "concept": "car",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0211-car.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1282978,
+      "sha256": "0b2e2537e849dbe418c4f64453776bb0011d0ac2d340c1b28ec1ca413de30140",
+      "git_blob_sha": "6cdc067a69f0831ae19ff8f9f1f07624cbc354f5"
+    },
+    {
+      "id": "ICON-0212",
+      "concept": "traffic-light",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0212-traffic-light.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 768470,
+      "sha256": "c026849d1a045ce4c99130288902dc5e442461d0b8e1c1c3da1284e3b72ccb37",
+      "git_blob_sha": "42f78285ac79ac3921456655243b7006750e8045"
+    },
+    {
+      "id": "ICON-0213",
+      "concept": "traffic-cone",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0213-traffic-cone.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 924094,
+      "sha256": "2fd83553b42143f24e1a2f72881eb7f750652e8a1e2e69f99e7c58c132a2b9bb",
+      "git_blob_sha": "2d92192cdc79b6e45c03a490f88c87d702b8514a"
+    },
+    {
+      "id": "ICON-0214",
+      "concept": "road-barrier",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0214-road-barrier.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1122145,
+      "sha256": "7a3a44b7760ad2945ddb2d967f29c76afb518a4bd27488743465bdd411e2a108",
+      "git_blob_sha": "7aadb7488d590aa39b2a889eb2759908d8db6417"
+    },
+    {
+      "id": "ICON-0215",
+      "concept": "bus-stop",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0215-bus-stop.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1303882,
+      "sha256": "4800bda13819145e9be584a25149004142ea14277c5eef820785838bdce12d0c",
+      "git_blob_sha": "315649b4d7d4574fc2f47aae0528581efd3bfca5"
+    },
+    {
+      "id": "ICON-0216",
+      "concept": "fuel-pump",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0216-fuel-pump.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1353182,
+      "sha256": "77ea89c1237dcb3a5c4d25ba95f8a19baa9d5ce567ebb1bcc77106927ec115fa",
+      "git_blob_sha": "4543c1e6c65b09b89de23feecdb27b30261b87fc"
+    },
+    {
+      "id": "ICON-0217",
+      "concept": "ev-charging-station",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0217-ev-charging-station.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1209750,
+      "sha256": "0d8224156974f55260c34153b796c919e76388b52ac9bed90f87c0cfcc9f90db",
+      "git_blob_sha": "94bc36b1bd083a9cc7bd32049e146bcd05125be0"
+    },
+    {
+      "id": "ICON-0218",
+      "concept": "parking-meter",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0218-parking-meter.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 740491,
+      "sha256": "59a0dcbf480f7610edab2293e01905afeeb68c63cb7bbb91dfc304576c6911bc",
+      "git_blob_sha": "cae2838d5b59e39fcad356ab35a482ad954190b4"
+    },
+    {
+      "id": "ICON-0219",
+      "concept": "road-sign",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0219-road-sign.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 808574,
+      "sha256": "504d53f138db4dfcc2f67d9eb894aea49c46f724f67a9a31b4486716f9b8b2cc",
+      "git_blob_sha": "36c577c2122cff415e99bc59de80cdd31375d480"
+    },
+    {
+      "id": "ICON-0220",
+      "concept": "railway-track",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0220-railway-track.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1043154,
+      "sha256": "fd9d226b7c1e83fc840b9867f6b77957078b307a6434595d8c550bdcbe9ede57",
+      "git_blob_sha": "f648e7c7c1289271d2a65a3c03ef6a8aed852b20"
+    },
+    {
+      "id": "ICON-0221",
+      "concept": "subway-entrance",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0221-subway-entrance.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1003496,
+      "sha256": "c20a763f63c8c12bd3ca164d7e163d1e094b1515cacda9c19b23922b3d481672",
+      "git_blob_sha": "e7a7d62d9fb6ff75976dcb36facf84e380cdec94"
+    },
+    {
+      "id": "ICON-0222",
+      "concept": "helicopter",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0222-helicopter.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1220302,
+      "sha256": "91b31836c4a2cf81608f240ddd5ad0df22c79251d799bc9a111a766d45ab0a13",
+      "git_blob_sha": "b874b82699f466f25cec5a21854449a7ffced3b8"
+    },
+    {
+      "id": "ICON-0223",
+      "concept": "sailboat",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0223-sailboat.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1092675,
+      "sha256": "ac73ae7f2da041873f7b2bd0d430a40833d7d6388d58fa4903561aa26c2f9832",
+      "git_blob_sha": "63fea88ac0bfa2a362cd07aef1933105e9b8f164"
+    },
+    {
+      "id": "ICON-0224",
+      "concept": "canoe",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0224-canoe.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1072777,
+      "sha256": "69e16e0dd5a8589b10458feefe71a29847fdc96c67fd21ce04cccd6111f2b2d7",
+      "git_blob_sha": "4cf831a7ab632259d1a24133c431a630b6a13629"
+    },
+    {
+      "id": "ICON-0225",
+      "concept": "anchor",
+      "category": "Transport and mobility",
+      "subcategory": "transport",
+      "path": "icons/transport-and-mobility/icon-0225-anchor.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 871736,
+      "sha256": "45f6bcd4027de14d695221bacd74557b9248ead53747a5f1b75f38ea89004cbe",
+      "git_blob_sha": "8c3a3fe03a3e03903ba23041d23bdbd55e7ebbdd"
     }
   ],
   "updated_date": "2026-10-17"
