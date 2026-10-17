@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
-  "completed_originals": 967,
-  "uploaded_originals": 200,
+  "completed_originals": 972,
+  "uploaded_originals": 205,
   "status": "uploading",
   "icons": [
     {
@@ -3603,6 +3603,97 @@
       "bytes": 1216828,
       "sha256": "08cac04655a9df9418ba66c58208993ffc55c903bb49a2b785149451ea488ae0",
       "git_blob_sha": "dc8dbade61f753470de713d7b731eef94bc4059f"
+    },
+    {
+      "id": "ICON-0968",
+      "concept": "coral-reef",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0968-coral-reef.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1185814,
+      "sha256": "ba35464bac297f190780aa038cf1fc34030f0638725a1d9cc0953aeed55899ae",
+      "git_blob_sha": "d291516fdfab104a4af8469f879d5e4ad69982f4"
+    },
+    {
+      "id": "ICON-0969",
+      "concept": "glacier",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0969-glacier.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1174067,
+      "sha256": "efa5def3a26e69721bfa5babb604a8df69bd2fda3efb3368706f37ebc52be44f",
+      "git_blob_sha": "625f9aec96183f15e6b0244f17a8fab8e5eef6e1"
+    },
+    {
+      "id": "ICON-0970",
+      "concept": "iceberg",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0970-iceberg.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 814192,
+      "sha256": "bc501cac0f328fe663fa383aefe2e90bd83e47c94404fd44d1437dc237ad2892",
+      "git_blob_sha": "a781f23f0dfc149535aaece16afc1c6f1eac23ff"
+    },
+    {
+      "id": "ICON-0971",
+      "concept": "geyser",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0971-geyser.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 860182,
+      "sha256": "db5eeff42224bea7a34c53af58b9db33c6ed964b04fdf81a0e0163c1b3f8bd70",
+      "git_blob_sha": "b4903ce6ef7109c62b98bb16921aae7d60c488d9"
+    },
+    {
+      "id": "ICON-0972",
+      "concept": "atoll",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0972-atoll.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1022267,
+      "sha256": "385bac9d98957277ed79aad5cc3000fe3fe5dd55b2670822acf112515ca01062",
+      "git_blob_sha": "bafd5911a9bc144a645a976527f4c7d8c60d7f40"
     }
-  ]
+  ],
+  "updated_date": "2026-10-17"
 }
