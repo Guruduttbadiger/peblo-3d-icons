@@ -4,7 +4,7 @@
 
 Designed in muted coral, warm cream and deep teal, with rounded forms and a consistent elevated three-quarter view.
 
-**Upload in progress: 781 of 972 original PNG files are currently published.** Check `manifest.json` for the exact published files.
+**All 972 original PNG files are published.** Check `manifest.json` for the exact published files.
 
 ## Categories
 
@@ -35,4 +35,4 @@ The collection is growing toward 3,000 unique icons. New checked originals are a
 
 Creator: Gurudutt Badiger.
 
-Latest checked wave: [17 October travel preview](previews/batch-014-travel.png). Category counts describe saved completed designs; only manifest-listed originals are published while the initial upload is in progress.
+Latest checked wave: [17 October travel preview](previews/batch-014-travel.png). All category counts match the original PNG files listed in the manifest.
