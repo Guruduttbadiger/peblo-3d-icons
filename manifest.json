@@ -1,7 +1,7 @@
 {
   "name": "Peblo 3D Icons",
-  "completed_originals": 972,
-  "uploaded_originals": 972,
+  "completed_originals": 987,
+  "uploaded_originals": 987,
   "status": "complete",
   "icons": [
     {
@@ -17499,6 +17499,276 @@
       "bytes": 1022267,
       "sha256": "385bac9d98957277ed79aad5cc3000fe3fe5dd55b2670822acf112515ca01062",
       "git_blob_sha": "bafd5911a9bc144a645a976527f4c7d8c60d7f40"
+    },
+    {
+      "id": "ICON-0973",
+      "concept": "canyon",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0973-canyon.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1433824,
+      "sha256": "288415f3f86a28e183fd9d5aacef875f83db1d2987485f0763521c1f7d4dd5b1",
+      "git_blob_sha": "3835898b7ceb8ea49782dd5db3868a76315970b1"
+    },
+    {
+      "id": "ICON-0974",
+      "concept": "stalactite",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0974-stalactite.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 813405,
+      "sha256": "e42ef41dd84a5e0254b61088346224dcae4127123501cfbf74e089256034d748",
+      "git_blob_sha": "6b354113cb8c878f77d9473d23e52224b2112318"
+    },
+    {
+      "id": "ICON-0975",
+      "concept": "river-delta",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0975-river-delta.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1021742,
+      "sha256": "f7ea2e708aa6c5c759825b4b7ba371decfef14d5bbbe98c78df6e9edc02c8be3",
+      "git_blob_sha": "4d9842eca78218f2c6963122bf301848a4e98165"
+    },
+    {
+      "id": "ICON-0976",
+      "concept": "mangrove-island",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0976-mangrove-island.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1210228,
+      "sha256": "05c6e528fdd2abba464989728db5589be1aaf396d5e9eb4dc92b98610358fd84",
+      "git_blob_sha": "9f5f03a33c4cac5874d2d504bf40001682fefee7"
+    },
+    {
+      "id": "ICON-0977",
+      "concept": "cliff",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0977-cliff.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1252561,
+      "sha256": "d3a8e58ac764c6caccc7240c3864b3df41c63e93c6af8ca077b171b1140f14c2",
+      "git_blob_sha": "407e8c9afb99ec7bd557e1913cb01a1d0cb33976"
+    },
+    {
+      "id": "ICON-0978",
+      "concept": "mesa",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0978-mesa.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1117306,
+      "sha256": "d7d887aab4c76e03b3286e47e93a0e58c09168136e284a7238f57a3deeb85691",
+      "git_blob_sha": "7605257a59b825c2fa3d07045610a241b9a57424"
+    },
+    {
+      "id": "ICON-0979",
+      "concept": "oasis",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0979-oasis.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 993955,
+      "sha256": "eb1aa99b6e928b202cb2e79c4d97e0845155094f7ac1e07f584c8cd170da4499",
+      "git_blob_sha": "82b8d60d7614b90a27ed930fac84e65d34cf9653"
+    },
+    {
+      "id": "ICON-0980",
+      "concept": "terraced-rice-fields",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0980-terraced-rice-fields.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1268347,
+      "sha256": "4b07df495c0a8dc61e9c677b5c264756c16dcdddc006ef91cf5b7242a1cc878d",
+      "git_blob_sha": "4be0d78b3a06d03f0872cac983ffede4b618d58e"
+    },
+    {
+      "id": "ICON-0981",
+      "concept": "fjord",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0981-fjord.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1245816,
+      "sha256": "8db7405483bc7de92bad33e2081784b9791be5ed92bc1b9739e733a0606b2e1f",
+      "git_blob_sha": "62c27432f36a1d1a6369314404e963853a94872b"
+    },
+    {
+      "id": "ICON-0982",
+      "concept": "stonehenge",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0982-stonehenge.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1131215,
+      "sha256": "4ffb3969182c61e94a38085afde1d1252efce67e49eb2478f80f2995e07ddada",
+      "git_blob_sha": "89aa5504cbfceb27193732f1bfaaccf8764b83d4"
+    },
+    {
+      "id": "ICON-0983",
+      "concept": "moai-statue",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0983-moai-statue.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1042397,
+      "sha256": "d512a0dcbd54cec3f7154e5c6600640c962b97ed9a83f47678427e3f19a65a51",
+      "git_blob_sha": "02ed737059dd570bfcab1708fe7541c48938a670"
+    },
+    {
+      "id": "ICON-0984",
+      "concept": "sphinx",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0984-sphinx.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1285057,
+      "sha256": "170d3e1e77f15c64dc36403a2ec515fbd93ff4dd8439fb0118b56c598e0dbcb5",
+      "git_blob_sha": "00f902a763c11efa448969567ba45d1e4466ba2e"
+    },
+    {
+      "id": "ICON-0985",
+      "concept": "obelisk",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0985-obelisk.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 563863,
+      "sha256": "d647d62591ecdc7299c34bad8823c3e64659ecf07207fdc49ab41dbee532682c",
+      "git_blob_sha": "488c07c6bf9a8fc3823b51b549d14ec1f0e0ad22"
+    },
+    {
+      "id": "ICON-0986",
+      "concept": "torii-gate",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0986-torii-gate.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 926832,
+      "sha256": "b1d20fa206bc75d52b2d162e3ec81840db9d89ee9dc950202474cc835e356cdd",
+      "git_blob_sha": "ce3a881904450f610aa2697dd0a821140cbf14c3"
+    },
+    {
+      "id": "ICON-0987",
+      "concept": "tree-house",
+      "category": "Travel and destinations",
+      "subcategory": "landforms-and-landmarks",
+      "path": "icons/travel-and-destinations/icon-0987-tree-house.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 2,
+      "bytes": 1168504,
+      "sha256": "41b71949bca578550af29e84684e69aef28b37f1dcb4eaf9b8bfd72de0dc82d7",
+      "git_blob_sha": "8dd439e0bf47fa6d3f21f6f0b09a3e6acbf91040"
     }
   ],
   "updated_date": "2026-10-17"
