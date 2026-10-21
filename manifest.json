@@ -1,8 +1,8 @@
 {
   "name": "Peblo 3D Icons",
-  "completed_originals": 987,
-  "uploaded_originals": 987,
-  "status": "complete",
+  "completed_originals": 1072,
+  "uploaded_originals": 1010,
+  "status": "1010 published originals; 62 completed originals await upload",
   "icons": [
     {
       "id": "ICON-0001",
@@ -17769,7 +17769,444 @@
       "bytes": 1168504,
       "sha256": "41b71949bca578550af29e84684e69aef28b37f1dcb4eaf9b8bfd72de0dc82d7",
       "git_blob_sha": "8dd439e0bf47fa6d3f21f6f0b09a3e6acbf91040"
+    },
+    {
+      "id": "ICON-0988",
+      "concept": "polo-shirt",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0988-polo-shirt.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1157341,
+      "sha256": "65bf125fa2448c7038a43fd8de007d5a5306dd08f25869abb2184e533e4caa7a",
+      "git_blob_sha": "bf1eb275ca3abd229afddf20d8df401621879a0a",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-0989",
+      "concept": "tank-top",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0989-tank-top.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1183550,
+      "sha256": "fa62b423536a1aec71ad0db48ea5341fc475a198e7dae0e11bd331fb62823c7f",
+      "git_blob_sha": "fbe56690ba6d99696d5c88e5508fbf62db83440e",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-0990",
+      "concept": "cardigan",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0990-cardigan.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1376851,
+      "sha256": "421cf9d9d964142d87382f3dc53201b41ff6246329db5ed99f15196b7cb28b84",
+      "git_blob_sha": "3822ffe86d0056dbe12454552a9d7241600cdc85",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-0991",
+      "concept": "puffer-jacket",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0991-puffer-jacket.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1454268,
+      "sha256": "353da2f4c015b3c533ae83533aa8646dd6eb5196f8e1f732856feaf82addde11",
+      "git_blob_sha": "3c8ca47d117e1bd8deea2cf62767c8963770fc5c",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-0992",
+      "concept": "waistcoat",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0992-waistcoat.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1017766,
+      "sha256": "f81a30d5dc9cd75ac45e4ffc1f8a1255cbe0a3fb04505d2220a2b1b2af449b60",
+      "git_blob_sha": "8d5f85710e522018ff7f6d944adf124ae60375a0",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-0993",
+      "concept": "overalls",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0993-overalls.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 955502,
+      "sha256": "4b087cc9fdca50d5ff8d2b826d98b359a6db53e393abb827244a802d9902e5ad",
+      "git_blob_sha": "36ba46d29af1f7ad32e8e5d72b668ac69e10eccb",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-0994",
+      "concept": "jumpsuit",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0994-jumpsuit.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1041811,
+      "sha256": "1cdf389dd258a77c48ac846c124ffba9b409157b8a58cc89a3a6929d9c9b0da9",
+      "git_blob_sha": "19438a4aaf0db08f4b2452539e56dbd592c117df",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-0995",
+      "concept": "tracksuit",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0995-tracksuit.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1351217,
+      "sha256": "39a2305cdf5422db269dfa15f58f6289693bef4b7fb1a00b1ce46dd9a2e49f07",
+      "git_blob_sha": "eb9a5efb10988daadbd5462f9f37866941872c41",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-0996",
+      "concept": "leggings",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0996-leggings.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 767193,
+      "sha256": "5a98fe5472bae063f1df63268bae29fe53e1e8f0057bbf206b45bbec267f19ef",
+      "git_blob_sha": "5b57d7c8db68b39256e1a40aeaca4dd3dcccea9d",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-0997",
+      "concept": "pajamas",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0997-pajamas.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1214586,
+      "sha256": "49482f83133a3aa1351d62db58da22c0048ec910fab146710e92ff66659760bc",
+      "git_blob_sha": "b05454b93a191ef33aef7d1a2424befa6acefaae",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-0998",
+      "concept": "bathrobe",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0998-bathrobe.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1227989,
+      "sha256": "51181523f4811cde5a6e1d545711f0e97fac85a482118e1858c87cc7532bad29",
+      "git_blob_sha": "b53cae69dcc4a1dbe10237e3b4865b0440c14950",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-0999",
+      "concept": "swimsuit",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-0999-swimsuit.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 811245,
+      "sha256": "2b0bfea78044a9c40a258619ff7184cac452cebf26248a6ae21335cefb7a5661",
+      "git_blob_sha": "62203bea4e2ec6f78dcaf7029d0bed81ea79c87b",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-1000",
+      "concept": "wetsuit",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-1000-wetsuit.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 750358,
+      "sha256": "ba99fee6103c338bb9e08d636127e8208c0afce876a35495755a7b56adb0ffef",
+      "git_blob_sha": "2cce1df444f0069b4f97b27a5b83be0d822752a1",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-1001",
+      "concept": "necktie",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-1001-necktie.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 755158,
+      "sha256": "bf8fa87f46594c8d810d1d27cdd30abf55a161635475614e452f7f17911d39ea",
+      "git_blob_sha": "92312064781f6a1737a17abb23078285fcd95a75",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-1002",
+      "concept": "pocket-square",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-1002-pocket-square.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1379222,
+      "sha256": "c194b8bd883aa0665d7df1718c3c72bd35d63b631198e65d86d0b75802f42e53",
+      "git_blob_sha": "744187803924ee99056b16c2f8b4a0c7ab4d4dd5",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-1003",
+      "concept": "suspenders",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-1003-suspenders.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 963253,
+      "sha256": "837836db38f5ced9af37a0c12477d7ddf451ac763920df3ede0753034ee548cb",
+      "git_blob_sha": "80770ababe7927c82d291a8d7d85ee38cfc15718",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-1004",
+      "concept": "poncho",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-1004-poncho.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 938821,
+      "sha256": "55a284a191f2b2a59c4db5f71cd20d74623adb5aa142b0dc8aad0be2be15f2e5",
+      "git_blob_sha": "9cab37f87f18c874cfc03ed27de5410cd58cd8b3",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-1005",
+      "concept": "chef-hat",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-1005-chef-hat.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1090475,
+      "sha256": "2c53e506e1ecebc8642cbb94a87b1877f80c39a283c3ec8081ec500474c61bc2",
+      "git_blob_sha": "94669b4794e023379cf102fc24168bbad27e9bab",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-1006",
+      "concept": "tutu",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-1006-tutu.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1081523,
+      "sha256": "428bb2bb6c171c6d377560a73d0f95be487e00cebda1b91c4ef89724b65ae42a",
+      "git_blob_sha": "ad8acfa76379aa24db25dea0a8278b8ad13acee0",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-1007",
+      "concept": "fedora",
+      "category": "Shopping and commerce",
+      "subcategory": "apparel-and-accessories",
+      "path": "icons/shopping-and-commerce/icon-1007-fedora.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1105269,
+      "sha256": "e44bcbbe370bbcd8fd0f0fc63ccb316b9a1fe87f0af14bb9fc6d6e0d5349bfb9",
+      "git_blob_sha": "82866af37174f35a5121e538440899b8006b439a",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-1008",
+      "concept": "binder-clip",
+      "category": "Work and productivity",
+      "subcategory": "office-and-specialist-tools",
+      "path": "icons/work-and-productivity/icon-1008-binder-clip.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 967775,
+      "sha256": "872d87a9ec3b2c0b9c8a6e4880f6bc667a4552d38415d8c5cce26c07d396844d",
+      "git_blob_sha": "e8209b41e4591b161d5e4dc3741064595f908fe9",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-1009",
+      "concept": "correction-tape",
+      "category": "Work and productivity",
+      "subcategory": "office-and-specialist-tools",
+      "path": "icons/work-and-productivity/icon-1009-correction-tape.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 993880,
+      "sha256": "8ea4165c2481ebdd025b6881791de12036a64d744891909458056933d10e55d5",
+      "git_blob_sha": "8a11e492996c4eada5ec7055b5a2ddf3852f478f",
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": "ICON-1010",
+      "concept": "sticky-note-pad",
+      "category": "Work and productivity",
+      "subcategory": "office-and-specialist-tools",
+      "path": "icons/work-and-productivity/icon-1010-sticky-note-pad.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "revision": 1,
+      "bytes": 1068944,
+      "sha256": "3f9f1f1ddb78dbae3e8157dcbdf6662a7dedaff8a082bffc9366d80afcb191eb",
+      "git_blob_sha": "fa0df9928b09370a119752c69bf939bb5c7109e5",
+      "createdAt": "2026-10-18"
     }
   ],
-  "updated_date": "2026-10-17"
+  "updated_date": "2026-10-21"
 }

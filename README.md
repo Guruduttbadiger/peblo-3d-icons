@@ -1,10 +1,10 @@
 # Peblo 3D Icons
 
-987 unique matte ceramic 3D icons, organized into 12 categories. Every original is a **1254 × 1254 transparent PNG**.
+1,010 unique matte ceramic 3D icons, organized into 12 categories. Every original is a **1254 × 1254 transparent PNG**.
 
 Designed in muted coral, warm cream and deep teal, with rounded forms and a consistent elevated three-quarter view.
 
-**All 987 original PNG files are published.** Check `manifest.json` for the exact published files.
+**1,010 original PNG files are published.** Another 62 completed originals await upload. Check `manifest.json` for the exact published files.
 
 ## Categories
 
@@ -12,9 +12,9 @@ Designed in muted coral, warm cream and deep teal, with rounded forms and a cons
 | --- | ---: | --- |
 | [Travel and destinations](icons/travel-and-destinations/) | 99 | [View](previews/travel-and-destinations.png) |
 | [Transport and mobility](icons/transport-and-mobility/) | 64 | [View](previews/transport-and-mobility.png) |
-| [Shopping and commerce](icons/shopping-and-commerce/) | 80 | [View](previews/shopping-and-commerce.png) |
+| [Shopping and commerce](icons/shopping-and-commerce/) | 100 | [View](previews/shopping-and-commerce.png) |
 | [Money and finance](icons/money-and-finance/) | 80 | [View](previews/money-and-finance.png) |
-| [Work and productivity](icons/work-and-productivity/) | 80 | [View](previews/work-and-productivity.png) |
+| [Work and productivity](icons/work-and-productivity/) | 83 | [View](previews/work-and-productivity.png) |
 | [Technology and communication](icons/technology-and-communication/) | 100 | [View](previews/technology-and-communication.png) |
 | [Education and learning](icons/education-and-learning/) | 70 | [View](previews/education-and-learning.png) |
 | [Health and wellbeing](icons/health-and-wellbeing/) | 80 | [View](previews/health-and-wellbeing.png) |
